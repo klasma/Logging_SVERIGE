@@ -19,3 +19,4 @@
 2023-09-06 06:35:47 Saving notification information to Excel.
 2023-09-06 06:39:35 Saving observations to Excel.
 2023-09-06 06:48:01 Pushing repo C:\git\Logging_SVERIGE.
+2023-09-06 07:07:04 Finished replace_files_sweden.
