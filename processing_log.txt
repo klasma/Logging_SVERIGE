@@ -1,22 +1,22 @@
-2023-09-09 00:22:33 Started replace_files_sweden.
-2023-09-09 00:22:33 Clearing repo C:\git\Logging_SVERIGE.
-2023-09-09 00:23:17 Downloading notifications.
-2023-09-09 00:23:21 Downloading observations.
-2023-09-09 00:28:00 Processing.
-2023-09-09 00:28:00 Loading species.
-2023-09-09 00:28:04 Loading observations.
-2023-09-09 01:10:30 Loading notifications.
-2023-09-09 01:50:55 Adding observations to notifications.
-2023-09-09 02:32:42 Freeing memory.
-2023-09-09 02:37:56 Adding owners.
-2023-09-09 02:54:14 Processing logging notifications.
-2023-09-09 02:54:14 Generating observation maps.
-2023-09-09 06:42:42 Generating knärot maps.
-2023-09-09 07:19:05 Generating complaints.
-2023-09-09 07:20:50 Generating complaint letters.
-2023-09-09 07:21:45 Generating requests.
-2023-09-09 07:23:02 Generating request letters.
-2023-09-09 07:23:57 Saving notification information to Excel.
-2023-09-09 07:28:05 Saving observations to Excel.
-2023-09-09 07:36:45 Pushing repo C:\git\Logging_SVERIGE.
-2023-09-09 07:37:02 Pushing 301 repos.
+2023-09-10 00:00:05 Started replace_files_sweden.
+2023-09-10 00:00:05 Clearing repo C:\git\Logging_SVERIGE.
+2023-09-10 00:00:59 Downloading notifications.
+2023-09-10 00:02:12 Downloading observations.
+2023-09-10 00:06:27 Processing.
+2023-09-10 00:06:27 Loading species.
+2023-09-10 00:06:30 Loading observations.
+2023-09-10 00:38:11 Loading notifications.
+2023-09-10 01:09:11 Adding observations to notifications.
+2023-09-10 01:49:17 Freeing memory.
+2023-09-10 01:55:15 Adding owners.
+2023-09-10 02:09:33 Processing logging notifications.
+2023-09-10 02:09:34 Generating observation maps.
+2023-09-10 05:50:55 Generating knärot maps.
+2023-09-10 06:26:50 Generating complaints.
+2023-09-10 06:28:36 Generating complaint letters.
+2023-09-10 06:29:28 Generating requests.
+2023-09-10 06:30:46 Generating request letters.
+2023-09-10 06:31:39 Saving notification information to Excel.
+2023-09-10 06:35:27 Saving observations to Excel.
+2023-09-10 06:43:55 Pushing repo C:\git\Logging_SVERIGE.
+2023-09-10 06:44:11 Pushing 301 repos.
