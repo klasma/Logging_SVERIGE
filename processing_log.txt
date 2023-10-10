@@ -1,22 +1,22 @@
-2023-10-08 23:00:03 Started replace_files_sweden.
-2023-10-08 23:00:03 Clearing repo C:\git\Logging_SVERIGE.
-2023-10-08 23:01:43 Downloading notifications.
-2023-10-08 23:01:44 Downloading observations.
-2023-10-08 23:06:07 Processing.
-2023-10-08 23:06:07 Loading species.
-2023-10-08 23:06:10 Loading observations.
-2023-10-08 23:37:24 Loading notifications.
-2023-10-09 00:21:04 Adding observations to notifications.
-2023-10-09 02:14:23 Adding owners.
-2023-10-09 02:32:27 Processing logging notifications.
-2023-10-09 02:32:27 Generating observation maps.
-2023-10-09 06:18:53 Generating knärot maps.
-2023-10-09 06:58:14 Generating complaints.
-2023-10-09 07:04:13 Generating complaint letters.
-2023-10-09 07:05:06 Generating requests.
-2023-10-09 07:06:21 Generating request letters.
-2023-10-09 07:07:14 Saving notification information to Excel.
-2023-10-09 07:55:00 Saving list of notifications to json.
-2023-10-09 07:55:00 Saving observations to Excel.
-2023-10-09 08:49:14 Pushing repo C:\git\Logging_SVERIGE.
-2023-10-09 08:49:31 Pushing 301 repos.
+2023-10-10 00:30:04 Started replace_files_sweden.
+2023-10-10 00:30:04 Clearing repo C:\git\Logging_SVERIGE.
+2023-10-10 00:30:52 Downloading notifications.
+2023-10-10 00:30:53 Downloading observations.
+2023-10-10 00:37:26 Processing.
+2023-10-10 00:37:26 Loading species.
+2023-10-10 00:37:29 Loading observations.
+2023-10-10 01:09:21 Loading notifications.
+2023-10-10 01:50:38 Adding observations to notifications.
+2023-10-10 03:32:22 Adding owners.
+2023-10-10 03:43:04 Processing logging notifications.
+2023-10-10 03:43:04 Generating observation maps.
+2023-10-10 07:33:30 Generating knärot maps.
+2023-10-10 08:10:40 Generating complaints.
+2023-10-10 08:12:27 Generating complaint letters.
+2023-10-10 08:13:21 Generating requests.
+2023-10-10 08:14:41 Generating request letters.
+2023-10-10 08:15:35 Saving notification information to Excel.
+2023-10-10 08:21:00 Saving list of notifications to json.
+2023-10-10 08:21:00 Saving observations to Excel.
+2023-10-10 08:34:01 Pushing repo C:\git\Logging_SVERIGE.
+2023-10-10 08:34:31 Pushing 312 repos.
