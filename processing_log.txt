@@ -1,2 +1,30 @@
-2023-10-10 09:55:39 Started replace_files_sweden.
-2023-10-10 09:55:39 Clearing repo C:\git\Logging_SVERIGE.
+2023-10-11 07:08:36 Started replace_files_sweden.
+2023-10-11 07:08:36 Clearing repo C:\git\Logging_SVERIGE.
+2023-10-11 07:09:29 Downloading notifications.
+2023-10-11 07:09:30 Downloading observations.
+2023-10-11 07:12:41 Processing.
+2023-10-11 07:12:41 Loading species.
+2023-10-11 07:12:43 Loading observations.
+2023-10-11 07:44:11 Loading notifications.
+2023-10-11 08:20:38 Adding observations to notifications.
+2023-10-11 10:01:28 Freeing memory.
+2023-10-11 10:05:45 Adding owners.
+2023-10-11 10:21:02 Processing logging notifications.
+2023-10-11 10:21:02 Generating observation maps.
+2023-10-11 14:12:44 Generating knärot maps.
+2023-10-11 14:50:50 Generating complaints.
+2023-10-11 14:52:37 Generating complaint letters.
+2023-10-11 14:53:32 Generating requests.
+2023-10-11 14:54:52 Generating request letters.
+2023-10-11 14:55:46 Saving notification information to Excel.
+2023-10-11 14:59:52 Saving list of notifications to json.
+2023-10-11 14:59:52 Saving observations to Excel.
+2023-10-11 15:06:55 Pushing repo C:\git\Logging_SVERIGE.
+2023-10-11 15:06:55 Traceback (most recent call last):
+  File "C:\git\LoggingDetective\replace_files_Sweden.py", line 30, in replace_files_sweden
+    forestry.update_github_pages(repo_path, 'Automatic update of files.', log)
+  File "C:\git\LoggingDetective\forestry\update_github_pages.py", line 70, in update_github_pages
+    p = get_county_path(path, c)
+                        ^^^^
+NameError: name 'path' is not defined
+
