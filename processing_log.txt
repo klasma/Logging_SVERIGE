@@ -1,23 +1,23 @@
-2023-10-24 23:00:09 Started replace_files_sweden.
-2023-10-24 23:00:09 Clearing repo C:\git\Logging_SVERIGE.
-2023-10-24 23:01:11 Downloading notifications.
-2023-10-24 23:01:12 Downloading observations.
-2023-10-24 23:02:54 Processing.
-2023-10-24 23:02:54 Loading species.
-2023-10-24 23:02:57 Loading observations.
-2023-10-24 23:39:14 Loading notifications.
-2023-10-25 00:09:34 Adding observations to notifications.
-2023-10-25 01:54:23 Freeing memory.
-2023-10-25 01:58:26 Adding owners.
-2023-10-25 02:14:19 Processing logging notifications.
-2023-10-25 02:14:19 Generating observation maps.
-2023-10-25 06:06:04 Generating knärot maps.
-2023-10-25 06:44:00 Generating complaints.
-2023-10-25 06:46:05 Generating complaint letters.
-2023-10-25 06:46:58 Generating requests.
-2023-10-25 06:48:19 Generating request letters.
-2023-10-25 06:49:20 Saving notification information to Excel.
-2023-10-25 06:53:44 Saving list of notifications to json.
-2023-10-25 06:53:44 Saving observations to Excel.
-2023-10-25 07:01:49 Pushing repo C:\git\Logging_SVERIGE.
-2023-10-25 07:01:49 Pushing 313 repos.
+2023-10-26 07:02:39 Started replace_files_sweden.
+2023-10-26 07:02:39 Clearing repo C:\git\Logging_SVERIGE.
+2023-10-26 07:03:44 Downloading notifications.
+2023-10-26 07:03:45 Downloading observations.
+2023-10-26 07:05:10 Processing.
+2023-10-26 07:05:10 Loading species.
+2023-10-26 07:05:13 Loading observations.
+2023-10-26 07:36:22 Loading notifications.
+2023-10-26 08:07:14 Adding observations to notifications.
+2023-10-26 09:51:59 Freeing memory.
+2023-10-26 09:56:09 Adding owners.
+2023-10-26 10:09:38 Processing logging notifications.
+2023-10-26 10:09:38 Generating observation maps.
+2023-10-26 14:01:34 Generating knärot maps.
+2023-10-26 14:39:27 Generating complaints.
+2023-10-26 14:41:16 Generating complaint letters.
+2023-10-26 14:42:10 Generating requests.
+2023-10-26 14:43:29 Generating request letters.
+2023-10-26 14:44:29 Saving notification information to Excel.
+2023-10-26 14:48:19 Saving list of notifications to json.
+2023-10-26 14:48:19 Saving observations to Excel.
+2023-10-26 14:55:45 Pushing repo C:\git\Logging_SVERIGE.
+2023-10-26 14:55:45 Pushing 313 repos.
