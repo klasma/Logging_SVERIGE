@@ -1,24 +1,24 @@
-2023-12-30 00:37:30 Started replace_files_sweden.
-2023-12-30 00:37:30 Clearing repo C:\git\Logging_SVERIGE.
-2023-12-30 00:38:54 Downloading notifications.
-2023-12-30 00:39:29 Downloading observations.
-2023-12-30 00:41:27 Copying observations
-2023-12-30 00:41:27 Processing.
-2023-12-30 00:41:27 Loading species.
-2023-12-30 00:41:31 Loading observations.
-2023-12-30 01:13:11 Loading notifications.
-2023-12-30 02:32:44 Adding observations to notifications.
-2023-12-30 05:08:40 Freeing memory.
-2023-12-30 05:13:51 Adding owners.
-2023-12-30 05:51:54 Processing logging notifications.
-2023-12-30 05:51:54 Generating observation maps.
-2023-12-30 10:26:20 Generating knärot maps.
-2023-12-30 11:12:08 Generating complaints.
-2023-12-30 11:15:27 Generating complaint letters.
-2023-12-30 11:17:42 Generating requests.
-2023-12-30 11:20:23 Generating request letters.
-2023-12-30 11:22:44 Saving notification information to Excel.
-2023-12-30 11:29:05 Saving list of notifications to json.
-2023-12-30 11:29:05 Saving observations to Excel.
-2023-12-30 11:43:45 Pushing repo C:\git\Logging_SVERIGE.
-2023-12-30 11:43:45 Pushing 313 repos.
+2023-12-31 02:02:17 Started replace_files_sweden.
+2023-12-31 02:02:18 Clearing repo C:\git\Logging_SVERIGE.
+2023-12-31 02:03:43 Downloading notifications.
+2023-12-31 02:04:11 Downloading observations.
+2023-12-31 02:05:55 Copying observations
+2023-12-31 02:05:56 Processing.
+2023-12-31 02:05:56 Loading species.
+2023-12-31 02:05:58 Loading observations.
+2023-12-31 02:38:26 Loading notifications.
+2023-12-31 04:12:18 Adding observations to notifications.
+2023-12-31 06:50:13 Freeing memory.
+2023-12-31 06:55:40 Adding owners.
+2023-12-31 07:39:33 Processing logging notifications.
+2023-12-31 07:39:33 Generating observation maps.
+2023-12-31 12:14:32 Generating knärot maps.
+2023-12-31 12:59:43 Generating complaints.
+2023-12-31 13:03:06 Generating complaint letters.
+2023-12-31 13:05:25 Generating requests.
+2023-12-31 13:08:07 Generating request letters.
+2023-12-31 13:10:30 Saving notification information to Excel.
+2023-12-31 13:17:30 Saving list of notifications to json.
+2023-12-31 13:17:30 Saving observations to Excel.
+2023-12-31 13:32:55 Pushing repo C:\git\Logging_SVERIGE.
+2023-12-31 13:32:55 Pushing 313 repos.
