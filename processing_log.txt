@@ -1,25 +1,79 @@
-2024-02-16 00:00:04 Started replace_files_sweden.
-2024-02-16 00:00:04 Resetting repo history.
-2024-02-16 04:56:04 Clearing repo C:\git\Logging_SVERIGE.
-2024-02-16 04:58:47 Downloading notifications.
-2024-02-16 04:59:05 Downloading observations.
-2024-02-16 05:02:42 Copying observations
-2024-02-16 05:02:47 Processing.
-2024-02-16 05:02:47 Loading species.
-2024-02-16 05:02:50 Loading observations.
-2024-02-16 05:38:04 Loading notifications.
-2024-02-16 07:12:54 Adding observations to notifications.
-2024-02-16 10:11:59 Freeing memory.
-2024-02-16 10:18:10 Adding owners.
-2024-02-16 11:01:34 Processing logging notifications.
-2024-02-16 11:01:35 Generating observation maps.
-2024-02-16 16:01:43 Generating knärot maps.
-2024-02-16 16:49:52 Generating complaints.
-2024-02-16 16:53:32 Generating complaint letters.
-2024-02-16 16:56:08 Generating requests.
-2024-02-16 16:59:07 Generating request letters.
-2024-02-16 17:01:47 Saving notification information to Excel.
-2024-02-16 17:08:54 Saving list of notifications to json.
-2024-02-16 17:08:54 Saving observations to Excel.
-2024-02-16 17:25:03 Pushing repo C:\git\Logging_SVERIGE.
-2024-02-16 17:25:03 Pushing 313 repos.
+2024-02-18 10:21:13 Started replace_files_sweden.
+2024-02-18 10:21:13 Clearing repo C:\git\Logging_SVERIGE.
+2024-02-18 10:22:40 Downloading notifications.
+2024-02-18 10:22:54 Downloading observations.
+2024-02-18 10:28:19 Copying observations
+2024-02-18 10:28:25 Processing.
+2024-02-18 10:28:25 Loading species.
+2024-02-18 10:28:30 Loading observations.
+2024-02-18 11:33:21 Loading notifications.
+2024-02-18 13:56:32 Adding observations to notifications.
+2024-02-18 17:59:52 Freeing memory.
+2024-02-18 18:05:19 Adding owners.
+2024-02-18 18:53:11 Processing logging notifications.
+2024-02-18 18:53:11 Generating observation maps.
+2024-02-18 23:23:32 Generating knärot maps.
+2024-02-19 00:07:52 Generating complaints.
+2024-02-19 00:11:27 Generating complaint letters.
+2024-02-19 00:14:01 Generating requests.
+2024-02-19 00:16:55 Generating request letters.
+2024-02-19 00:19:45 Saving notification information to Excel.
+2024-02-19 00:33:47 Saving list of notifications to json.
+2024-02-19 00:33:47 Saving observations to Excel.
+2024-02-19 00:48:49 Pushing repo C:\git\Logging_SVERIGE.
+2024-02-19 00:48:49 Pushing 313 repos.
+2024-02-19 01:23:46 Traceback (most recent call last):
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\objects\commit.py", line 628, in create_from_tree
+    repo.head.set_commit(new_commit, logmsg=message)
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\refs\symbolic.py", line 333, in set_commit
+    self.set_object(commit, logmsg)
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\refs\symbolic.py", line 370, in set_object
+    return self._get_reference().set_object(object, logmsg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\refs\reference.py", line 89, in set_object
+    oldbinsha = self.commit.binsha
+                ^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\refs\symbolic.py", line 293, in _get_commit
+    obj = self._get_object()
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\refs\symbolic.py", line 284, in _get_object
+    return Object.new_from_sha(self.repo, hex_to_bin(self.dereference_recursive(self.repo, self.path)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\objects\base.py", line 98, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+            ^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\db.py", line 44, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\cmd.py", line 1461, in get_object_header
+    return self.__get_object_header(cmd, ref)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\cmd.py", line 1447, in __get_object_header
+    return self._parse_object_header(cmd.stdout.readline())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\cmd.py", line 1408, in _parse_object_header
+    raise ValueError("SHA %s could not be resolved, git returned: %r" % (tokens[0], header_line.strip()))
+ValueError: SHA b'5da2d7739b60506f112cf27700ff92273c876c49' could not be resolved, git returned: b'5da2d7739b60506f112cf27700ff92273c876c49 missing'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\git\LoggingDetective\replace_files_Sweden.py", line 37, in replace_files_sweden
+    forestry.update_github_pages(repo_path, 'Automatic update of files.', log)
+  File "C:\git\LoggingDetective\forestry\update_github_pages.py", line 90, in update_github_pages
+    forestry.push_git_repo(repo_path, commit_message)
+  File "C:\git\LoggingDetective\forestry\push_git_repo.py", line 8, in push_git_repo
+    repo.index.commit(commit_message)
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\index\base.py", line 1108, in commit
+    rval = Commit.create_from_tree(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\objects\commit.py", line 632, in create_from_tree
+    master = git.refs.Head.create(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\refs\symbolic.py", line 705, in create
+    return cls._create(repo, path, cls._resolve_ref_on_create, reference, force, logmsg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\git\LoggingDetective\venv\Lib\site-packages\git\refs\symbolic.py", line 656, in _create
+    raise OSError(
+OSError: Reference at 'refs/heads/master' does already exist, pointing to '5da2d7739b60506f112cf27700ff92273c876c49', requested was '38ed5f30bebca21414e0c2b9a46a2f16ec84f131'
+
