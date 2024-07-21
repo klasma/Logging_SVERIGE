@@ -1,25 +1,25 @@
-2024-07-20 00:00:07 Started replace_files_sweden.
-2024-07-20 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
-2024-07-20 00:01:42 Downloading notifications.
-2024-07-20 00:02:02 Downloading observations.
-2024-07-20 00:05:59 Copying observations
-2024-07-20 00:06:00 Processing.
-2024-07-20 00:06:00 Loading species.
-2024-07-20 00:06:04 Loading observations.
-2024-07-20 00:34:37 Loading notifications.
-2024-07-20 01:50:33 Adding observations to notifications.
-2024-07-20 05:41:14 Freeing memory.
-2024-07-20 05:41:27 Loading observation Excel dictionaries.
-2024-07-20 06:00:33 Adding owners.
-2024-07-20 06:28:04 Processing logging notifications.
-2024-07-20 06:28:04 Generating observation maps.
-2024-07-20 11:19:12 Generating knärot maps.
-2024-07-20 12:10:42 Generating complaints.
-2024-07-20 12:14:14 Generating complaint letters.
-2024-07-20 12:16:22 Generating requests.
-2024-07-20 12:18:59 Generating request letters.
-2024-07-20 12:21:29 Saving notification information to Excel.
-2024-07-20 12:34:51 Saving list of notifications to json.
-2024-07-20 12:34:51 Saving observations to Excel.
-2024-07-20 12:46:27 Pushing repo C:\git\Logging_SVERIGE.
-2024-07-20 12:46:27 Pushing 313 repos.
+2024-07-21 00:00:07 Started replace_files_sweden.
+2024-07-21 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
+2024-07-21 00:01:42 Downloading notifications.
+2024-07-21 00:01:59 Downloading observations.
+2024-07-21 00:08:17 Copying observations
+2024-07-21 00:08:18 Processing.
+2024-07-21 00:08:18 Loading species.
+2024-07-21 00:08:22 Loading observations.
+2024-07-21 00:37:25 Loading notifications.
+2024-07-21 01:44:13 Adding observations to notifications.
+2024-07-21 05:26:12 Freeing memory.
+2024-07-21 05:26:26 Loading observation Excel dictionaries.
+2024-07-21 05:45:44 Adding owners.
+2024-07-21 06:08:11 Processing logging notifications.
+2024-07-21 06:08:11 Generating observation maps.
+2024-07-21 10:58:59 Generating knärot maps.
+2024-07-21 11:50:28 Generating complaints.
+2024-07-21 11:53:58 Generating complaint letters.
+2024-07-21 11:56:13 Generating requests.
+2024-07-21 11:58:50 Generating request letters.
+2024-07-21 12:01:11 Saving notification information to Excel.
+2024-07-21 12:14:07 Saving list of notifications to json.
+2024-07-21 12:14:07 Saving observations to Excel.
+2024-07-21 12:25:52 Pushing repo C:\git\Logging_SVERIGE.
+2024-07-21 12:25:52 Pushing 313 repos.
