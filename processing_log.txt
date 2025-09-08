@@ -1,105 +1,108 @@
-2025-09-07 00:05:30 Started replace_files_sweden.
-2025-09-07 00:05:30 Clearing repo C:\git\Logging_SVERIGE.
-2025-09-07 00:06:32 Downloading notifications.
-2025-09-07 00:06:38 Downloading observations.
-2025-09-07 00:06:38 2025-08-08
-2025-09-07 00:06:44 2025-08-09
-2025-09-07 00:06:48 2025-08-10
-2025-09-07 00:06:53 2025-08-11
-2025-09-07 00:06:58 2025-08-12
-2025-09-07 00:07:02 2025-08-13
-2025-09-07 00:07:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 276 seconds." }
-2025-09-07 00:11:57 2025-08-14
-2025-09-07 00:12:02 2025-08-15
-2025-09-07 00:12:07 2025-08-16
-2025-09-07 00:12:11 2025-08-17
-2025-09-07 00:12:16 2025-08-18
-2025-09-07 00:12:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 264 seconds." }
-2025-09-07 00:16:45 2025-08-19
-2025-09-07 00:16:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 13 seconds." }
-2025-09-07 00:17:01 2025-08-20
-2025-09-07 00:17:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-09-07 00:17:10 2025-08-21
-2025-09-07 00:17:14 2025-08-22
-2025-09-07 00:17:17 2025-08-23
-2025-09-07 00:17:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 264 seconds." }
-2025-09-07 00:21:49 2025-08-24
-2025-09-07 00:21:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2025-09-07 00:22:03 2025-08-25
-2025-09-07 00:22:08 2025-08-26
-2025-09-07 00:22:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-09-07 00:22:16 2025-08-27
-2025-09-07 00:22:21 2025-08-28
-2025-09-07 00:22:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 261 seconds." }
-2025-09-07 00:26:50 2025-08-29
-2025-09-07 00:26:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2025-09-07 00:27:05 2025-08-30
-2025-09-07 00:27:10 2025-08-31
-2025-09-07 00:27:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-09-07 00:27:17 2025-09-01
-2025-09-07 00:27:18 Query exceeds limit of 50000 observations.
-2025-09-07 00:27:18 Downloading observations for county 1
-2025-09-07 00:27:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 265 seconds." }
-2025-09-07 00:31:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 17 seconds." }
-2025-09-07 00:32:13 Downloading observations for county 2
-2025-09-07 00:32:14 Downloading observations for county 3
-2025-09-07 00:32:16 Downloading observations for county 4
-2025-09-07 00:32:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2025-09-07 00:32:20 Downloading observations for county 5
-2025-09-07 00:32:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 264 seconds." }
-2025-09-07 00:37:14 Downloading observations for county 6
-2025-09-07 00:37:15 Downloading observations for county 7
-2025-09-07 00:37:17 Downloading observations for county 8
-2025-09-07 00:37:18 Downloading observations for county 9
-2025-09-07 00:37:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-09-07 00:37:21 Downloading observations for county 10
-2025-09-07 00:37:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 264 seconds." }
-2025-09-07 00:41:47 Downloading observations for county 11
-2025-09-07 00:41:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 27 seconds." }
-2025-09-07 00:42:15 Downloading observations for county 12
-2025-09-07 00:42:16 Downloading observations for county 13
-2025-09-07 00:42:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-09-07 00:42:19 Downloading observations for county 14
-2025-09-07 00:42:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-09-07 00:42:23 Downloading observations for county 15
-2025-09-07 00:42:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 263 seconds." }
-2025-09-07 00:46:47 Downloading observations for county 16
-2025-09-07 00:46:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 28 seconds." }
-2025-09-07 00:47:16 Downloading observations for county 17
-2025-09-07 00:47:18 Downloading observations for county 18
-2025-09-07 00:47:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-09-07 00:47:21 Downloading observations for county 19
-2025-09-07 00:47:22 Downloading observations for county 20
-2025-09-07 00:47:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 265 seconds." }
-2025-09-07 00:51:55 Downloading observations for county 21
-2025-09-07 00:51:55 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 21 seconds." }
-2025-09-07 00:52:21 2025-09-02
-2025-09-07 00:52:25 2025-09-03
-2025-09-07 00:52:30 2025-09-04
-2025-09-07 00:52:34 2025-09-05
-2025-09-07 00:52:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 254 seconds." }
-2025-09-07 00:56:52 2025-09-06
-2025-09-07 00:56:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 25 seconds." }
-2025-09-07 00:57:21 2025-09-07
-2025-09-07 00:57:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-09-07 00:57:23 Copying observations
-2025-09-07 00:57:24 Processing.
-2025-09-07 00:57:24 Loading species.
-2025-09-07 00:57:29 Loading observations.
-2025-09-07 02:10:20 Loading notifications.
-2025-09-07 02:18:08 Adding observations to notifications.
-2025-09-07 04:53:30 Freeing memory.
-2025-09-07 04:53:42 Loading observation Excel dictionaries.
-2025-09-07 05:13:33 Adding owners.
-2025-09-07 05:20:55 Processing logging notifications.
-2025-09-07 05:20:55 Generating observation maps.
-2025-09-07 09:51:37 Generating knärot maps.
-2025-09-07 10:46:13 Generating complaints.
-2025-09-07 10:49:45 Generating complaint letters.
-2025-09-07 10:51:46 Generating requests.
-2025-09-07 10:54:27 Generating request letters.
-2025-09-07 10:56:46 Saving notification information to Excel.
-2025-09-07 11:05:36 Saving list of notifications to json.
-2025-09-07 11:05:36 Saving observations to Excel.
-2025-09-07 11:06:50 Pushing repo C:\git\Logging_SVERIGE.
-2025-09-07 11:06:50 Pushing 313 repos.
+2025-09-08 00:00:08 Started replace_files_sweden.
+2025-09-08 00:00:08 Clearing repo C:\git\Logging_SVERIGE.
+2025-09-08 00:01:56 Downloading notifications.
+2025-09-08 00:02:04 Downloading observations.
+2025-09-08 00:02:04 2025-08-09
+2025-09-08 00:02:09 2025-08-10
+2025-09-08 00:02:12 2025-08-11
+2025-09-08 00:02:17 2025-08-12
+2025-09-08 00:02:21 2025-08-13
+2025-09-08 00:02:36 2025-08-14
+2025-09-08 00:02:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 269 seconds." }
+2025-09-08 00:07:09 2025-08-15
+2025-09-08 00:07:13 2025-08-16
+2025-09-08 00:07:17 2025-08-17
+2025-09-08 00:07:21 2025-08-18
+2025-09-08 00:07:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-09-08 00:07:26 2025-08-19
+2025-09-08 00:07:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 280 seconds." }
+2025-09-08 00:12:09 2025-08-20
+2025-09-08 00:12:15 2025-08-21
+2025-09-08 00:12:19 2025-08-22
+2025-09-08 00:12:22 2025-08-23
+2025-09-08 00:12:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-09-08 00:12:28 2025-08-24
+2025-09-08 00:12:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 278 seconds." }
+2025-09-08 00:17:11 2025-08-25
+2025-09-08 00:17:15 2025-08-26
+2025-09-08 00:17:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-09-08 00:17:20 2025-08-27
+2025-09-08 00:17:24 2025-08-28
+2025-09-08 00:17:31 2025-08-29
+2025-09-08 00:17:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 277 seconds." }
+2025-09-08 00:22:12 2025-08-30
+2025-09-08 00:22:16 2025-08-31
+2025-09-08 00:22:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-09-08 00:22:22 2025-09-01
+2025-09-08 00:22:22 Query exceeds limit of 50000 observations.
+2025-09-08 00:22:22 Downloading observations for county 1
+2025-09-08 00:22:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-09-08 00:22:34 Downloading observations for county 2
+2025-09-08 00:22:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 275 seconds." }
+2025-09-08 00:27:10 Downloading observations for county 3
+2025-09-08 00:27:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-09-08 00:27:14 Downloading observations for county 4
+2025-09-08 00:27:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2025-09-08 00:27:20 Downloading observations for county 5
+2025-09-08 00:27:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-09-08 00:27:25 Downloading observations for county 6
+2025-09-08 00:27:26 Downloading observations for county 7
+2025-09-08 00:27:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 284 seconds." }
+2025-09-08 00:32:12 Downloading observations for county 8
+2025-09-08 00:32:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-09-08 00:32:16 Downloading observations for county 9
+2025-09-08 00:32:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-09-08 00:32:20 Downloading observations for county 10
+2025-09-08 00:32:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-09-08 00:32:25 Downloading observations for county 11
+2025-09-08 00:32:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-09-08 00:32:27 Downloading observations for county 12
+2025-09-08 00:32:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 284 seconds." }
+2025-09-08 00:37:13 Downloading observations for county 13
+2025-09-08 00:37:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-09-08 00:37:17 Downloading observations for county 14
+2025-09-08 00:37:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-09-08 00:37:23 Downloading observations for county 15
+2025-09-08 00:37:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-09-08 00:37:25 Downloading observations for county 16
+2025-09-08 00:37:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-09-08 00:37:28 Downloading observations for county 17
+2025-09-08 00:37:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 284 seconds." }
+2025-09-08 00:42:14 Downloading observations for county 18
+2025-09-08 00:42:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-09-08 00:42:17 Downloading observations for county 19
+2025-09-08 00:42:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-09-08 00:42:22 Downloading observations for county 20
+2025-09-08 00:42:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-09-08 00:42:32 Downloading observations for county 21
+2025-09-08 00:42:36 2025-09-02
+2025-09-08 00:42:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 278 seconds." }
+2025-09-08 00:47:18 2025-09-03
+2025-09-08 00:47:23 2025-09-04
+2025-09-08 00:47:26 2025-09-05
+2025-09-08 00:47:30 2025-09-06
+2025-09-08 00:47:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-09-08 00:47:37 2025-09-07
+2025-09-08 00:47:37 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 278 seconds." }
+2025-09-08 00:52:19 2025-09-08
+2025-09-08 00:52:20 Copying observations
+2025-09-08 00:52:21 Processing.
+2025-09-08 00:52:21 Loading species.
+2025-09-08 00:52:25 Loading observations.
+2025-09-08 02:05:42 Loading notifications.
+2025-09-08 02:13:29 Adding observations to notifications.
+2025-09-08 04:49:14 Freeing memory.
+2025-09-08 04:49:27 Loading observation Excel dictionaries.
+2025-09-08 05:09:28 Adding owners.
+2025-09-08 05:16:51 Processing logging notifications.
+2025-09-08 05:16:51 Generating observation maps.
+2025-09-08 09:47:46 Generating knärot maps.
+2025-09-08 10:42:24 Generating complaints.
+2025-09-08 10:45:58 Generating complaint letters.
+2025-09-08 10:47:59 Generating requests.
+2025-09-08 10:50:41 Generating request letters.
+2025-09-08 10:52:59 Saving notification information to Excel.
+2025-09-08 11:02:00 Saving list of notifications to json.
+2025-09-08 11:02:00 Saving observations to Excel.
+2025-09-08 11:03:15 Pushing repo C:\git\Logging_SVERIGE.
+2025-09-08 11:03:15 Pushing 313 repos.
