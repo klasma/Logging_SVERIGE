@@ -1,507 +1,510 @@
-2025-10-07 00:00:09 Started replace_files_sweden.
-2025-10-07 00:00:09 Clearing repo C:\git\Logging_SVERIGE.
-2025-10-07 00:01:55 Downloading notifications.
-2025-10-07 00:02:02 Downloading observations.
-2025-10-07 00:02:02 2025-09-07
-2025-10-07 00:02:09 2025-09-08
-2025-10-07 00:02:15 2025-09-09
-2025-10-07 00:02:26 2025-09-10
-2025-10-07 00:02:32 2025-09-11
-2025-10-07 00:02:38 2025-09-12
-2025-10-07 00:02:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 264 seconds." }
-2025-10-07 00:07:08 2025-09-13
-2025-10-07 00:07:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-10-07 00:07:15 2025-09-14
-2025-10-07 00:07:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-10-07 00:07:29 2025-09-15
-2025-10-07 00:07:30 Query exceeds limit of 50000 observations.
-2025-10-07 00:07:30 Downloading observations for county 01 Stockholms län
-2025-10-07 00:07:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2025-10-07 00:07:34 Downloading observations for county 03 Uppsala län
-2025-10-07 00:07:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 270 seconds." }
-2025-10-07 00:12:23 Downloading observations for county 04 Södermanlands län
-2025-10-07 00:12:26 Downloading observations for county 05 Östergötlands län
-2025-10-07 00:12:28 Downloading observations for county 06 Jönköpings län
-2025-10-07 00:12:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-10-07 00:12:37 Downloading observations for county 07 Kronobergs län
-2025-10-07 00:12:39 Downloading observations for county 08 Kalmar län
-2025-10-07 00:12:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 266 seconds." }
-2025-10-07 00:17:09 Downloading observations for county 09 Gotlands län
-2025-10-07 00:17:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 14 seconds." }
-2025-10-07 00:17:25 Downloading observations for county 10 Blekinge län
-2025-10-07 00:17:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-10-07 00:17:28 Downloading observations for county 12 Skåne län
-2025-10-07 00:17:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-10-07 00:17:32 Downloading observations for county 13 Hallands län
-2025-10-07 00:17:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-10-07 00:17:42 Downloading observations for county 14 Västra Götalands län
-2025-10-07 00:17:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 264 seconds." }
-2025-10-07 00:22:07 Query exceeds limit of 50000 observations.
-2025-10-07 00:22:07 Downloading observations for municipality 1440 Ale
-2025-10-07 00:22:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 16 seconds." }
-2025-10-07 00:22:28 Downloading observations for municipality 1489 Alingsås
-2025-10-07 00:22:31 Downloading observations for municipality 1460 Bengtsfors
-2025-10-07 00:22:35 Downloading observations for municipality 1443 Bollebygd
-2025-10-07 00:22:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 00:22:42 Downloading observations for municipality 1490 Borås
-2025-10-07 00:22:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 265 seconds." }
-2025-10-07 00:27:14 Downloading observations for municipality 1438 Dals-Ed
-2025-10-07 00:27:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
-2025-10-07 00:27:26 Downloading observations for municipality 1445 Essunga
-2025-10-07 00:27:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2025-10-07 00:27:33 Downloading observations for municipality 1499 Falköping
-2025-10-07 00:27:48 Downloading observations for municipality 1439 Färgelanda
-2025-10-07 00:27:49 Downloading observations for municipality 1444 Grästorp
-2025-10-07 00:27:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 258 seconds." }
-2025-10-07 00:32:13 Downloading observations for municipality 1447 Gullspång
-2025-10-07 00:32:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 13 seconds." }
-2025-10-07 00:32:29 Downloading observations for municipality 1480 Göteborg
-2025-10-07 00:32:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2025-10-07 00:32:36 Downloading observations for municipality 1471 Götene
-2025-10-07 00:32:43 Downloading observations for municipality 1466 Herrljunga
-2025-10-07 00:32:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
-2025-10-07 00:32:53 Downloading observations for municipality 1497 Hjo
-2025-10-07 00:32:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 256 seconds." }
-2025-10-07 00:37:30 Downloading observations for municipality 1401 Härryda
-2025-10-07 00:37:53 Downloading observations for municipality 1446 Karlsborg
-2025-10-07 00:37:58 Downloading observations for municipality 1482 Kungälv
-2025-10-07 00:38:04 Downloading observations for municipality 1441 Lerum
-2025-10-07 00:38:07 Downloading observations for municipality 1494 Lidköping
-2025-10-07 00:38:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 243 seconds." }
-2025-10-07 00:42:15 Downloading observations for municipality 1462 Lilla Edet
-2025-10-07 00:42:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 16 seconds." }
-2025-10-07 00:42:37 Downloading observations for municipality 1484 Lysekil
-2025-10-07 00:42:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 16 seconds." }
-2025-10-07 00:42:55 Downloading observations for municipality 1493 Mariestad
-2025-10-07 00:42:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 00:43:02 Downloading observations for municipality 1463 Mark
-2025-10-07 00:43:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 00:43:09 Downloading observations for municipality 1461 Mellerud
-2025-10-07 00:43:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 242 seconds." }
-2025-10-07 00:47:14 Downloading observations for municipality 1430 Munkedal
-2025-10-07 00:47:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 18 seconds." }
-2025-10-07 00:47:34 Downloading observations for municipality 1481 Mölndal
-2025-10-07 00:47:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 20 seconds." }
-2025-10-07 00:47:57 Downloading observations for municipality 1421 Orust
-2025-10-07 00:47:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 00:48:02 Downloading observations for municipality 1402 Partille
-2025-10-07 00:48:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 00:48:09 Downloading observations for municipality 1495 Skara
-2025-10-07 00:48:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 243 seconds." }
-2025-10-07 00:52:16 Downloading observations for municipality 1496 Skövde
-2025-10-07 00:52:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 17 seconds." }
-2025-10-07 00:52:39 Downloading observations for municipality 1427 Sotenäs
-2025-10-07 00:52:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 16 seconds." }
-2025-10-07 00:52:58 Downloading observations for municipality 1415 Stenungsund
-2025-10-07 00:52:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 00:53:04 Downloading observations for municipality 1486 Strömstad
-2025-10-07 00:53:04 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 00:53:10 Downloading observations for municipality 1465 Svenljunga
-2025-10-07 00:53:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 243 seconds." }
-2025-10-07 00:57:23 Downloading observations for municipality 1435 Tanum
-2025-10-07 00:57:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
-2025-10-07 00:57:35 Downloading observations for municipality 1472 Tibro
-2025-10-07 00:57:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 21 seconds." }
-2025-10-07 00:57:58 Downloading observations for municipality 1498 Tidaholm
-2025-10-07 00:57:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 00:58:06 Downloading observations for municipality 1419 Tjörn
-2025-10-07 00:58:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2025-10-07 00:58:10 Downloading observations for municipality 1452 Tranemo
-2025-10-07 00:58:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 244 seconds." }
-2025-10-07 01:02:20 Downloading observations for municipality 1488 Trollhättan
-2025-10-07 01:02:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 14 seconds." }
-2025-10-07 01:02:39 Downloading observations for municipality 1473 Töreboda
-2025-10-07 01:02:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 18 seconds." }
-2025-10-07 01:03:00 Downloading observations for municipality 1485 Uddevalla
-2025-10-07 01:03:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 01:03:05 Downloading observations for municipality 1491 Ulricehamn
-2025-10-07 01:03:06 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 01:03:15 Downloading observations for municipality 1470 Vara
-2025-10-07 01:03:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 241 seconds." }
-2025-10-07 01:07:19 Downloading observations for municipality 1442 Vårgårda
-2025-10-07 01:07:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 16 seconds." }
-2025-10-07 01:07:39 Downloading observations for municipality 1487 Vänersborg
-2025-10-07 01:07:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 19 seconds." }
-2025-10-07 01:08:00 Downloading observations for municipality 1492 Åmål
-2025-10-07 01:08:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 01:08:06 Downloading observations for municipality 1407 Öckerö
-2025-10-07 01:08:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 01:08:12 Downloading observations for county 17 Värmlands län
-2025-10-07 01:08:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 245 seconds." }
-2025-10-07 01:12:19 Downloading observations for county 18 Örebro län
-2025-10-07 01:12:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 17 seconds." }
-2025-10-07 01:12:39 Downloading observations for county 19 Västmanlands län
-2025-10-07 01:12:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 19 seconds." }
-2025-10-07 01:13:00 Downloading observations for county 20 Dalarnas län
-2025-10-07 01:13:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-10-07 01:13:08 Downloading observations for county 21 Gävleborgs län
-2025-10-07 01:13:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 01:13:14 Downloading observations for county 22 Västernorrlands län
-2025-10-07 01:13:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 244 seconds." }
-2025-10-07 01:17:20 Downloading observations for county 23 Jämtlands län
-2025-10-07 01:17:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 17 seconds." }
-2025-10-07 01:17:39 Downloading observations for county 24 Västerbottens län
-2025-10-07 01:17:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 21 seconds." }
-2025-10-07 01:18:02 Downloading observations for county 25 Norrbottens län
-2025-10-07 01:18:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-10-07 01:18:09 2025-09-16
-2025-10-07 01:18:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 01:18:33 2025-09-17
-2025-10-07 01:18:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 226 seconds." }
-2025-10-07 01:24:26 2025-09-18
-2025-10-07 01:24:32 2025-09-19
-2025-10-07 01:24:38 2025-09-20
-2025-10-07 01:24:43 2025-09-21
-2025-10-07 01:25:37 2025-09-22
-2025-10-07 01:25:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 102 seconds." }
-2025-10-07 01:27:21 Query exceeds limit of 50000 observations.
-2025-10-07 01:27:21 Downloading observations for county 01 Stockholms län
-2025-10-07 01:27:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 126 seconds." }
-2025-10-07 01:29:29 Downloading observations for county 03 Uppsala län
-2025-10-07 01:29:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 01:29:34 Downloading observations for county 04 Södermanlands län
-2025-10-07 01:29:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 01:29:40 Downloading observations for county 05 Östergötlands län
-2025-10-07 01:29:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 01:29:46 Downloading observations for county 06 Jönköpings län
-2025-10-07 01:29:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 155 seconds." }
-2025-10-07 01:32:23 Downloading observations for county 07 Kronobergs län
-2025-10-07 01:32:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 01:34:30 Downloading observations for county 08 Kalmar län
-2025-10-07 01:34:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 01:34:43 Downloading observations for county 09 Gotlands län
-2025-10-07 01:35:50 Downloading observations for county 10 Blekinge län
-2025-10-07 01:35:51 Downloading observations for county 12 Skåne län
-2025-10-07 01:35:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 90 seconds." }
-2025-10-07 01:37:24 Downloading observations for county 13 Hallands län
-2025-10-07 01:37:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 01:39:32 Downloading observations for county 14 Västra Götalands län
-2025-10-07 01:39:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2025-10-07 01:39:36 Downloading observations for county 17 Värmlands län
-2025-10-07 01:39:37 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-10-07 01:39:45 Downloading observations for county 18 Örebro län
-2025-10-07 01:39:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 65 seconds." }
-2025-10-07 01:42:05 Downloading observations for county 19 Västmanlands län
-2025-10-07 01:42:06 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 17 seconds." }
-2025-10-07 01:42:24 Downloading observations for county 20 Dalarnas län
-2025-10-07 01:42:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 126 seconds." }
-2025-10-07 01:44:33 Downloading observations for county 21 Gävleborgs län
-2025-10-07 01:44:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 01:45:12 Downloading observations for county 22 Västernorrlands län
-2025-10-07 01:45:13 Downloading observations for county 23 Jämtlands län
-2025-10-07 01:45:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 39 seconds." }
-2025-10-07 01:45:57 Downloading observations for county 24 Västerbottens län
-2025-10-07 01:45:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 86 seconds." }
-2025-10-07 01:47:25 Downloading observations for county 25 Norrbottens län
-2025-10-07 01:47:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 126 seconds." }
-2025-10-07 01:49:38 2025-09-23
-2025-10-07 01:49:39 Query exceeds limit of 50000 observations.
-2025-10-07 01:49:39 Downloading observations for county 01 Stockholms län
-2025-10-07 01:49:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 33 seconds." }
-2025-10-07 01:50:16 Downloading observations for county 03 Uppsala län
-2025-10-07 01:50:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 37 seconds." }
-2025-10-07 01:50:55 Downloading observations for county 04 Södermanlands län
-2025-10-07 01:50:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 89 seconds." }
-2025-10-07 01:52:27 Downloading observations for county 05 Östergötlands län
-2025-10-07 01:52:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 01:54:34 Downloading observations for county 06 Jönköpings län
-2025-10-07 01:54:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 01:54:40 Downloading observations for county 07 Kronobergs län
-2025-10-07 01:54:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 33 seconds." }
-2025-10-07 01:55:18 Downloading observations for county 08 Kalmar län
-2025-10-07 01:55:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 36 seconds." }
-2025-10-07 01:56:00 Downloading observations for county 09 Gotlands län
-2025-10-07 01:56:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 86 seconds." }
-2025-10-07 01:57:27 Downloading observations for county 10 Blekinge län
-2025-10-07 01:57:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 01:59:34 Downloading observations for county 12 Skåne län
-2025-10-07 01:59:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-10-07 01:59:41 Query exceeds limit of 50000 observations.
-2025-10-07 01:59:41 Downloading observations for municipality 1260 Bjuv
-2025-10-07 01:59:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 34 seconds." }
-2025-10-07 02:00:17 Downloading observations for municipality 1272 Bromölla
-2025-10-07 02:00:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 39 seconds." }
-2025-10-07 02:00:59 Downloading observations for municipality 1231 Burlöv
-2025-10-07 02:01:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 88 seconds." }
-2025-10-07 02:02:30 Downloading observations for municipality 1278 Båstad
-2025-10-07 02:02:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 124 seconds." }
-2025-10-07 02:04:38 Downloading observations for municipality 1285 Eslöv
-2025-10-07 02:04:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2025-10-07 02:04:44 Downloading observations for municipality 1283 Helsingborg
-2025-10-07 02:04:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 32 seconds." }
-2025-10-07 02:05:22 Downloading observations for municipality 1293 Hässleholm
-2025-10-07 02:05:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 35 seconds." }
-2025-10-07 02:06:02 Downloading observations for municipality 1284 Höganäs
-2025-10-07 02:06:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 86 seconds." }
-2025-10-07 02:07:33 Downloading observations for municipality 1266 Hörby
-2025-10-07 02:07:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 122 seconds." }
-2025-10-07 02:09:38 Downloading observations for municipality 1267 Höör
-2025-10-07 02:09:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 02:09:45 Downloading observations for municipality 1276 Klippan
-2025-10-07 02:09:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 32 seconds." }
-2025-10-07 02:10:20 Downloading observations for municipality 1290 Kristianstad
-2025-10-07 02:10:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 38 seconds." }
-2025-10-07 02:11:07 Downloading observations for municipality 1261 Kävlinge
-2025-10-07 02:11:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 82 seconds." }
-2025-10-07 02:12:35 Downloading observations for municipality 1282 Landskrona
-2025-10-07 02:12:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 121 seconds." }
-2025-10-07 02:14:38 Downloading observations for municipality 1262 Lomma
-2025-10-07 02:14:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-10-07 02:14:46 Downloading observations for municipality 1281 Lund
-2025-10-07 02:14:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 32 seconds." }
-2025-10-07 02:15:22 Downloading observations for municipality 1280 Malmö
-2025-10-07 02:15:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 37 seconds." }
-2025-10-07 02:16:02 Downloading observations for municipality 1273 Osby
-2025-10-07 02:16:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 89 seconds." }
-2025-10-07 02:17:34 Downloading observations for municipality 1275 Perstorp
-2025-10-07 02:17:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 123 seconds." }
-2025-10-07 02:19:38 Downloading observations for municipality 1291 Simrishamn
-2025-10-07 02:19:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
-2025-10-07 02:19:48 Downloading observations for municipality 1265 Sjöbo
-2025-10-07 02:19:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 31 seconds." }
-2025-10-07 02:20:23 Downloading observations for municipality 1264 Skurup
-2025-10-07 02:20:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 37 seconds." }
-2025-10-07 02:21:03 Downloading observations for municipality 1230 Staffanstorp
-2025-10-07 02:21:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 89 seconds." }
-2025-10-07 02:22:34 Downloading observations for municipality 1214 Svalöv
-2025-10-07 02:22:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 124 seconds." }
-2025-10-07 02:24:48 Downloading observations for municipality 1263 Svedala
-2025-10-07 02:24:51 Downloading observations for municipality 1270 Tomelilla
-2025-10-07 02:24:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 29 seconds." }
-2025-10-07 02:25:24 Downloading observations for municipality 1287 Trelleborg
-2025-10-07 02:25:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 37 seconds." }
-2025-10-07 02:26:06 Downloading observations for municipality 1233 Vellinge
-2025-10-07 02:26:06 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 87 seconds." }
-2025-10-07 02:27:36 Downloading observations for municipality 1286 Ystad
-2025-10-07 02:27:37 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 123 seconds." }
-2025-10-07 02:29:44 Downloading observations for municipality 1277 Åstorp
-2025-10-07 02:29:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-10-07 02:29:51 Downloading observations for municipality 1292 Ängelholm
-2025-10-07 02:29:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 30 seconds." }
-2025-10-07 02:30:26 Downloading observations for municipality 1257 Örkelljunga
-2025-10-07 02:30:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 36 seconds." }
-2025-10-07 02:31:05 Downloading observations for municipality 1256 Östra Göinge
-2025-10-07 02:31:06 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 89 seconds." }
-2025-10-07 02:32:43 Downloading observations for county 13 Hallands län
-2025-10-07 02:32:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 117 seconds." }
-2025-10-07 02:34:43 Downloading observations for county 14 Västra Götalands län
-2025-10-07 02:34:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-10-07 02:34:53 Downloading observations for county 17 Värmlands län
-2025-10-07 02:34:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 30 seconds." }
-2025-10-07 02:35:25 Downloading observations for county 18 Örebro län
-2025-10-07 02:35:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 39 seconds." }
-2025-10-07 02:36:05 Downloading observations for county 19 Västmanlands län
-2025-10-07 02:36:06 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 90 seconds." }
-2025-10-07 02:37:38 Downloading observations for county 20 Dalarnas län
-2025-10-07 02:37:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 124 seconds." }
-2025-10-07 02:39:44 Downloading observations for county 21 Gävleborgs län
-2025-10-07 02:39:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-10-07 02:39:53 Downloading observations for county 22 Västernorrlands län
-2025-10-07 02:39:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 31 seconds." }
-2025-10-07 02:40:28 Downloading observations for county 23 Jämtlands län
-2025-10-07 02:40:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 36 seconds." }
-2025-10-07 02:41:06 Downloading observations for county 24 Västerbottens län
-2025-10-07 02:41:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 90 seconds." }
-2025-10-07 02:42:39 Downloading observations for county 25 Norrbottens län
-2025-10-07 02:42:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 124 seconds." }
-2025-10-07 02:44:45 2025-09-24
-2025-10-07 02:44:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-10-07 02:44:53 Query exceeds limit of 50000 observations.
-2025-10-07 02:44:53 Downloading observations for county 01 Stockholms län
-2025-10-07 02:44:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 32 seconds." }
-2025-10-07 02:45:27 Downloading observations for county 03 Uppsala län
-2025-10-07 02:45:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 38 seconds." }
-2025-10-07 02:46:07 Downloading observations for county 04 Södermanlands län
-2025-10-07 02:46:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 90 seconds." }
-2025-10-07 02:47:40 Downloading observations for county 05 Östergötlands län
-2025-10-07 02:47:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 124 seconds." }
-2025-10-07 02:49:47 Downloading observations for county 06 Jönköpings län
-2025-10-07 02:49:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
-2025-10-07 02:50:40 Downloading observations for county 07 Kronobergs län
-2025-10-07 02:51:00 Downloading observations for county 08 Kalmar län
-2025-10-07 02:51:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
-2025-10-07 02:51:43 Downloading observations for county 09 Gotlands län
-2025-10-07 02:51:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 55 seconds." }
-2025-10-07 02:52:40 Downloading observations for county 10 Blekinge län
-2025-10-07 02:52:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 02:54:47 Downloading observations for county 12 Skåne län
-2025-10-07 02:54:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-10-07 02:54:57 Downloading observations for county 13 Hallands län
-2025-10-07 02:54:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
-2025-10-07 02:55:43 Downloading observations for county 14 Västra Götalands län
-2025-10-07 02:55:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 24 seconds." }
-2025-10-07 02:56:10 Downloading observations for county 17 Värmlands län
-2025-10-07 02:56:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 89 seconds." }
-2025-10-07 02:57:41 Downloading observations for county 18 Örebro län
-2025-10-07 02:57:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 02:59:48 Downloading observations for county 19 Västmanlands län
-2025-10-07 02:59:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-10-07 02:59:58 Downloading observations for county 20 Dalarnas län
-2025-10-07 02:59:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
-2025-10-07 03:00:44 Downloading observations for county 21 Gävleborgs län
-2025-10-07 03:00:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 24 seconds." }
-2025-10-07 03:01:10 Downloading observations for county 22 Västernorrlands län
-2025-10-07 03:01:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 90 seconds." }
-2025-10-07 03:02:42 Downloading observations for county 23 Jämtlands län
-2025-10-07 03:02:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 03:04:49 Downloading observations for county 24 Västerbottens län
-2025-10-07 03:04:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-10-07 03:05:03 Downloading observations for county 25 Norrbottens län
-2025-10-07 03:05:04 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 40 seconds." }
-2025-10-07 03:05:47 2025-09-25
-2025-10-07 03:05:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 23 seconds." }
-2025-10-07 03:06:11 Query exceeds limit of 50000 observations.
-2025-10-07 03:06:11 Downloading observations for county 01 Stockholms län
-2025-10-07 03:06:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 90 seconds." }
-2025-10-07 03:07:46 Downloading observations for county 03 Uppsala län
-2025-10-07 03:07:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 122 seconds." }
-2025-10-07 03:09:51 Downloading observations for county 04 Södermanlands län
-2025-10-07 03:09:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
-2025-10-07 03:10:01 Downloading observations for county 05 Östergötlands län
-2025-10-07 03:10:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
-2025-10-07 03:10:50 Downloading observations for county 06 Jönköpings län
-2025-10-07 03:10:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 21 seconds." }
-2025-10-07 03:11:15 Downloading observations for county 07 Kronobergs län
-2025-10-07 03:11:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 87 seconds." }
-2025-10-07 03:12:45 Downloading observations for county 08 Kalmar län
-2025-10-07 03:12:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 03:14:54 Downloading observations for county 09 Gotlands län
-2025-10-07 03:14:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-10-07 03:15:03 Downloading observations for county 10 Blekinge län
-2025-10-07 03:15:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
-2025-10-07 03:15:48 Downloading observations for county 12 Skåne län
-2025-10-07 03:15:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 24 seconds." }
-2025-10-07 03:16:30 Downloading observations for county 13 Hallands län
-2025-10-07 03:16:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 73 seconds." }
-2025-10-07 03:17:47 Downloading observations for county 14 Västra Götalands län
-2025-10-07 03:17:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 123 seconds." }
-2025-10-07 03:19:56 Downloading observations for county 17 Värmlands län
-2025-10-07 03:19:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 03:20:03 Downloading observations for county 18 Örebro län
-2025-10-07 03:20:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
-2025-10-07 03:20:50 Downloading observations for county 19 Västmanlands län
-2025-10-07 03:20:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 23 seconds." }
-2025-10-07 03:21:16 Downloading observations for county 20 Dalarnas län
-2025-10-07 03:21:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 88 seconds." }
-2025-10-07 03:22:47 Downloading observations for county 21 Gävleborgs län
-2025-10-07 03:22:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 03:24:54 Downloading observations for county 22 Västernorrlands län
-2025-10-07 03:24:55 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-10-07 03:25:03 Downloading observations for county 23 Jämtlands län
-2025-10-07 03:25:04 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 45 seconds." }
-2025-10-07 03:25:53 Downloading observations for county 24 Västerbottens län
-2025-10-07 03:25:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 22 seconds." }
-2025-10-07 03:26:18 Downloading observations for county 25 Norrbottens län
-2025-10-07 03:26:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 87 seconds." }
-2025-10-07 03:27:48 2025-09-26
-2025-10-07 03:27:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 124 seconds." }
-2025-10-07 03:29:59 2025-09-27
-2025-10-07 03:30:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-10-07 03:30:09 2025-09-28
-2025-10-07 03:30:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 40 seconds." }
-2025-10-07 03:30:50 Query exceeds limit of 50000 observations.
-2025-10-07 03:30:50 Downloading observations for county 01 Stockholms län
-2025-10-07 03:30:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 26 seconds." }
-2025-10-07 03:31:18 Downloading observations for county 03 Uppsala län
-2025-10-07 03:31:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 88 seconds." }
-2025-10-07 03:32:48 Downloading observations for county 04 Södermanlands län
-2025-10-07 03:32:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 03:34:55 Downloading observations for county 05 Östergötlands län
-2025-10-07 03:34:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-10-07 03:35:08 Downloading observations for county 06 Jönköpings län
-2025-10-07 03:35:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
-2025-10-07 03:35:52 Downloading observations for county 07 Kronobergs län
-2025-10-07 03:35:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 26 seconds." }
-2025-10-07 03:36:20 Downloading observations for county 08 Kalmar län
-2025-10-07 03:36:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 87 seconds." }
-2025-10-07 03:37:49 Query exceeds limit of 50000 observations.
-2025-10-07 03:37:49 Downloading observations for municipality 0885 Borgholm
-2025-10-07 03:37:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 126 seconds." }
-2025-10-07 03:39:56 Downloading observations for municipality 0862 Emmaboda
-2025-10-07 03:39:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2025-10-07 03:40:07 Downloading observations for municipality 0860 Hultsfred
-2025-10-07 03:40:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
-2025-10-07 03:40:52 Downloading observations for municipality 0821 Högsby
-2025-10-07 03:40:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 27 seconds." }
-2025-10-07 03:41:20 Downloading observations for municipality 0880 Kalmar
-2025-10-07 03:41:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 88 seconds." }
-2025-10-07 03:42:50 Downloading observations for municipality 0861 Mönsterås
-2025-10-07 03:42:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 126 seconds." }
-2025-10-07 03:44:57 Downloading observations for municipality 0840 Mörbylånga
-2025-10-07 03:44:58 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2025-10-07 03:45:07 Downloading observations for municipality 0881 Nybro
-2025-10-07 03:45:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 45 seconds." }
-2025-10-07 03:45:54 Downloading observations for municipality 0882 Oskarshamn
-2025-10-07 03:45:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 27 seconds." }
-2025-10-07 03:46:22 Downloading observations for municipality 0834 Torsås
-2025-10-07 03:46:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 88 seconds." }
-2025-10-07 03:47:51 Downloading observations for municipality 0884 Vimmerby
-2025-10-07 03:47:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 126 seconds." }
-2025-10-07 03:49:58 Downloading observations for municipality 0883 Västervik
-2025-10-07 03:49:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2025-10-07 03:50:09 Downloading observations for county 09 Gotlands län
-2025-10-07 03:50:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 45 seconds." }
-2025-10-07 03:50:56 Downloading observations for county 10 Blekinge län
-2025-10-07 03:50:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 26 seconds." }
-2025-10-07 03:51:25 Downloading observations for county 12 Skåne län
-2025-10-07 03:51:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 86 seconds." }
-2025-10-07 03:52:53 Downloading observations for county 13 Hallands län
-2025-10-07 03:52:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 03:55:01 Downloading observations for county 14 Västra Götalands län
-2025-10-07 03:55:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-10-07 03:55:12 Downloading observations for county 17 Värmlands län
-2025-10-07 03:55:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
-2025-10-07 03:55:57 Downloading observations for county 18 Örebro län
-2025-10-07 03:55:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 26 seconds." }
-2025-10-07 03:56:25 Downloading observations for county 19 Västmanlands län
-2025-10-07 03:56:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 87 seconds." }
-2025-10-07 03:57:53 Downloading observations for county 20 Dalarnas län
-2025-10-07 03:57:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 04:00:00 Downloading observations for county 21 Gävleborgs län
-2025-10-07 04:00:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2025-10-07 04:00:11 Downloading observations for county 22 Västernorrlands län
-2025-10-07 04:00:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
-2025-10-07 04:01:34 Downloading observations for county 23 Jämtlands län
-2025-10-07 04:01:35 Downloading observations for county 24 Västerbottens län
-2025-10-07 04:01:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 77 seconds." }
-2025-10-07 04:02:55 Downloading observations for county 25 Norrbottens län
-2025-10-07 04:02:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 125 seconds." }
-2025-10-07 04:05:02 2025-09-29
-2025-10-07 04:05:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-10-07 04:06:08 2025-09-30
-2025-10-07 04:06:13 2025-10-01
-2025-10-07 04:06:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 22 seconds." }
-2025-10-07 04:06:40 2025-10-02
-2025-10-07 04:06:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 74 seconds." }
-2025-10-07 04:07:59 2025-10-03
-2025-10-07 04:07:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 122 seconds." }
-2025-10-07 04:10:07 2025-10-04
-2025-10-07 04:10:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-10-07 04:10:16 2025-10-05
-2025-10-07 04:10:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 53 seconds." }
-2025-10-07 04:11:15 2025-10-06
-2025-10-07 04:11:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 21 seconds." }
-2025-10-07 04:11:41 2025-10-07
-2025-10-07 04:11:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 74 seconds." }
-2025-10-07 04:12:57 Copying observations
-2025-10-07 04:12:58 Processing.
-2025-10-07 04:12:58 Loading species.
-2025-10-07 04:13:03 Loading observations.
-2025-10-07 05:26:59 Loading notifications.
-2025-10-07 05:34:51 Adding observations to notifications.
-2025-10-07 08:14:33 Freeing memory.
-2025-10-07 08:14:46 Loading observation Excel dictionaries.
-2025-10-07 08:35:37 Adding owners.
-2025-10-07 08:43:04 Processing logging notifications.
-2025-10-07 08:43:04 Generating observation maps.
-2025-10-07 13:19:37 Generating knärot maps.
-2025-10-07 14:16:10 Generating complaints.
-2025-10-07 14:19:48 Generating complaint letters.
-2025-10-07 14:21:53 Generating requests.
-2025-10-07 14:24:38 Generating request letters.
-2025-10-07 14:27:00 Saving notification information to Excel.
-2025-10-07 14:35:56 Saving list of notifications to json.
-2025-10-07 14:35:56 Copying species text document.
-2025-10-07 14:35:56 Saving observations to Excel.
-2025-10-07 14:37:14 Pushing repo C:\git\Logging_SVERIGE.
-2025-10-07 14:37:14 Pushing 313 repos.
+2025-10-08 00:00:09 Started replace_files_sweden.
+2025-10-08 00:00:09 Clearing repo C:\git\Logging_SVERIGE.
+2025-10-08 00:01:57 Downloading notifications.
+2025-10-08 00:02:04 Downloading observations.
+2025-10-08 00:02:04 2025-09-08
+2025-10-08 00:02:11 2025-09-09
+2025-10-08 00:02:22 2025-09-10
+2025-10-08 00:02:27 2025-09-11
+2025-10-08 00:02:31 2025-09-12
+2025-10-08 00:02:35 2025-09-13
+2025-10-08 00:02:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 269 seconds." }
+2025-10-08 00:07:10 2025-09-14
+2025-10-08 00:07:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 00:07:22 2025-09-15
+2025-10-08 00:07:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 00:07:24 Query exceeds limit of 50000 observations.
+2025-10-08 00:07:24 Downloading observations for county 01 Stockholms län
+2025-10-08 00:07:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2025-10-08 00:07:30 Downloading observations for county 03 Uppsala län
+2025-10-08 00:07:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 00:07:33 Downloading observations for county 04 Södermanlands län
+2025-10-08 00:07:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 272 seconds." }
+2025-10-08 00:12:07 Downloading observations for county 05 Östergötlands län
+2025-10-08 00:12:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 00:12:14 Downloading observations for county 06 Jönköpings län
+2025-10-08 00:12:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
+2025-10-08 00:12:29 Downloading observations for county 07 Kronobergs län
+2025-10-08 00:12:31 Downloading observations for county 08 Kalmar län
+2025-10-08 00:12:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 00:12:36 Downloading observations for county 09 Gotlands län
+2025-10-08 00:12:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 271 seconds." }
+2025-10-08 00:17:08 Downloading observations for county 10 Blekinge län
+2025-10-08 00:17:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 00:17:15 Downloading observations for county 12 Skåne län
+2025-10-08 00:17:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
+2025-10-08 00:17:27 Downloading observations for county 13 Hallands län
+2025-10-08 00:17:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 00:17:32 Downloading observations for county 14 Västra Götalands län
+2025-10-08 00:17:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 00:17:35 Query exceeds limit of 50000 observations.
+2025-10-08 00:17:35 Downloading observations for municipality 1440 Ale
+2025-10-08 00:17:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 272 seconds." }
+2025-10-08 00:22:10 Downloading observations for municipality 1489 Alingsås
+2025-10-08 00:22:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 00:22:18 Downloading observations for municipality 1460 Bengtsfors
+2025-10-08 00:22:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
+2025-10-08 00:22:28 Downloading observations for municipality 1443 Bollebygd
+2025-10-08 00:22:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 00:22:33 Downloading observations for municipality 1490 Borås
+2025-10-08 00:22:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 00:22:40 Downloading observations for municipality 1438 Dals-Ed
+2025-10-08 00:22:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 269 seconds." }
+2025-10-08 00:27:10 Downloading observations for municipality 1445 Essunga
+2025-10-08 00:27:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2025-10-08 00:27:18 Downloading observations for municipality 1499 Falköping
+2025-10-08 00:27:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 00:27:40 Downloading observations for municipality 1439 Färgelanda
+2025-10-08 00:27:41 Downloading observations for municipality 1444 Grästorp
+2025-10-08 00:27:43 Downloading observations for municipality 1447 Gullspång
+2025-10-08 00:27:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 267 seconds." }
+2025-10-08 00:32:12 Downloading observations for municipality 1480 Göteborg
+2025-10-08 00:32:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 00:32:20 Downloading observations for municipality 1471 Götene
+2025-10-08 00:32:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
+2025-10-08 00:32:32 Downloading observations for municipality 1466 Herrljunga
+2025-10-08 00:32:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
+2025-10-08 00:32:44 Downloading observations for municipality 1497 Hjo
+2025-10-08 00:32:45 Downloading observations for municipality 1401 Härryda
+2025-10-08 00:32:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 266 seconds." }
+2025-10-08 00:37:13 Downloading observations for municipality 1446 Karlsborg
+2025-10-08 00:37:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 00:37:23 Downloading observations for municipality 1482 Kungälv
+2025-10-08 00:37:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2025-10-08 00:37:31 Downloading observations for municipality 1441 Lerum
+2025-10-08 00:37:32 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
+2025-10-08 00:37:44 Downloading observations for municipality 1494 Lidköping
+2025-10-08 00:37:47 Downloading observations for municipality 1462 Lilla Edet
+2025-10-08 00:37:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 266 seconds." }
+2025-10-08 00:42:19 Downloading observations for municipality 1484 Lysekil
+2025-10-08 00:43:03 Downloading observations for municipality 1493 Mariestad
+2025-10-08 00:43:07 Downloading observations for municipality 1463 Mark
+2025-10-08 00:43:11 Downloading observations for municipality 1461 Mellerud
+2025-10-08 00:43:12 Downloading observations for municipality 1430 Munkedal
+2025-10-08 00:43:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 242 seconds." }
+2025-10-08 00:47:15 Downloading observations for municipality 1481 Mölndal
+2025-10-08 00:47:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2025-10-08 00:47:22 Downloading observations for municipality 1421 Orust
+2025-10-08 00:47:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 00:48:05 Downloading observations for municipality 1402 Partille
+2025-10-08 00:48:06 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 00:48:10 Downloading observations for municipality 1495 Skara
+2025-10-08 00:48:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 00:48:14 Downloading observations for municipality 1496 Skövde
+2025-10-08 00:48:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 241 seconds." }
+2025-10-08 00:52:20 Downloading observations for municipality 1427 Sotenäs
+2025-10-08 00:52:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 00:52:22 Downloading observations for municipality 1415 Stenungsund
+2025-10-08 00:52:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 00:53:07 Downloading observations for municipality 1486 Strömstad
+2025-10-08 00:53:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 00:53:11 Downloading observations for municipality 1465 Svenljunga
+2025-10-08 00:53:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 00:53:16 Downloading observations for municipality 1435 Tanum
+2025-10-08 00:53:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 240 seconds." }
+2025-10-08 00:57:18 Downloading observations for municipality 1472 Tibro
+2025-10-08 00:57:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2025-10-08 00:57:24 Downloading observations for municipality 1498 Tidaholm
+2025-10-08 00:57:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 00:58:10 Downloading observations for municipality 1419 Tjörn
+2025-10-08 00:58:11 Downloading observations for municipality 1452 Tranemo
+2025-10-08 00:58:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 00:58:17 Downloading observations for municipality 1488 Trollhättan
+2025-10-08 00:58:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 241 seconds." }
+2025-10-08 01:02:21 Downloading observations for municipality 1473 Töreboda
+2025-10-08 01:02:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 01:02:25 Downloading observations for municipality 1485 Uddevalla
+2025-10-08 01:02:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 01:03:09 Downloading observations for municipality 1491 Ulricehamn
+2025-10-08 01:03:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 01:03:15 Downloading observations for municipality 1470 Vara
+2025-10-08 01:03:18 Downloading observations for municipality 1442 Vårgårda
+2025-10-08 01:03:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 241 seconds." }
+2025-10-08 01:07:21 Downloading observations for municipality 1487 Vänersborg
+2025-10-08 01:07:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 01:07:26 Downloading observations for municipality 1492 Åmål
+2025-10-08 01:07:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 01:08:10 Downloading observations for municipality 1407 Öckerö
+2025-10-08 01:08:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 01:08:13 Downloading observations for county 17 Värmlands län
+2025-10-08 01:08:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:08:18 Downloading observations for county 18 Örebro län
+2025-10-08 01:08:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 242 seconds." }
+2025-10-08 01:12:23 Downloading observations for county 19 Västmanlands län
+2025-10-08 01:12:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 01:12:29 Downloading observations for county 20 Dalarnas län
+2025-10-08 01:12:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 41 seconds." }
+2025-10-08 01:13:12 Downloading observations for county 21 Gävleborgs län
+2025-10-08 01:13:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 01:13:15 Downloading observations for county 22 Västernorrlands län
+2025-10-08 01:13:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:13:19 Downloading observations for county 23 Jämtlands län
+2025-10-08 01:13:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 242 seconds." }
+2025-10-08 01:17:25 Downloading observations for county 24 Västerbottens län
+2025-10-08 01:17:29 Downloading observations for county 25 Norrbottens län
+2025-10-08 01:17:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 01:18:13 2025-09-16
+2025-10-08 01:18:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 01:18:28 2025-09-17
+2025-10-08 01:19:56 2025-09-18
+2025-10-08 01:19:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 146 seconds." }
+2025-10-08 01:22:28 2025-09-19
+2025-10-08 01:22:33 2025-09-20
+2025-10-08 01:22:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 39 seconds." }
+2025-10-08 01:23:26 2025-09-21
+2025-10-08 01:24:17 2025-09-22
+2025-10-08 01:24:18 Query exceeds limit of 50000 observations.
+2025-10-08 01:24:18 Downloading observations for county 01 Stockholms län
+2025-10-08 01:24:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
+2025-10-08 01:27:26 Downloading observations for county 03 Uppsala län
+2025-10-08 01:27:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 01:27:30 Downloading observations for county 04 Södermanlands län
+2025-10-08 01:27:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 01:28:15 Downloading observations for county 05 Östergötlands län
+2025-10-08 01:28:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 11 seconds." }
+2025-10-08 01:28:28 Downloading observations for county 06 Jönköpings län
+2025-10-08 01:28:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 01:29:19 Downloading observations for county 07 Kronobergs län
+2025-10-08 01:29:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
+2025-10-08 01:32:26 Downloading observations for county 08 Kalmar län
+2025-10-08 01:32:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:32:30 Downloading observations for county 09 Gotlands län
+2025-10-08 01:32:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 01:34:07 Downloading observations for county 10 Blekinge län
+2025-10-08 01:34:08 Downloading observations for county 12 Skåne län
+2025-10-08 01:34:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 11 seconds." }
+2025-10-08 01:34:21 Downloading observations for county 13 Hallands län
+2025-10-08 01:34:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 184 seconds." }
+2025-10-08 01:37:27 Downloading observations for county 14 Västra Götalands län
+2025-10-08 01:37:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:37:32 Downloading observations for county 17 Värmlands län
+2025-10-08 01:37:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 01:38:17 Downloading observations for county 18 Örebro län
+2025-10-08 01:38:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 01:39:14 Downloading observations for county 19 Västmanlands län
+2025-10-08 01:39:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2025-10-08 01:39:23 Downloading observations for county 20 Dalarnas län
+2025-10-08 01:39:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 183 seconds." }
+2025-10-08 01:42:28 Downloading observations for county 21 Gävleborgs län
+2025-10-08 01:42:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:43:08 Downloading observations for county 22 Västernorrlands län
+2025-10-08 01:43:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 01:43:18 Downloading observations for county 23 Jämtlands län
+2025-10-08 01:43:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 01:44:12 Downloading observations for county 24 Västerbottens län
+2025-10-08 01:44:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 01:44:23 Downloading observations for county 25 Norrbottens län
+2025-10-08 01:44:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 184 seconds." }
+2025-10-08 01:47:29 2025-09-23
+2025-10-08 01:47:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:47:33 Query exceeds limit of 50000 observations.
+2025-10-08 01:47:33 Downloading observations for county 01 Stockholms län
+2025-10-08 01:47:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
+2025-10-08 01:48:20 Downloading observations for county 03 Uppsala län
+2025-10-08 01:48:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 01:49:10 Downloading observations for county 04 Södermanlands län
+2025-10-08 01:49:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 11 seconds." }
+2025-10-08 01:49:23 Downloading observations for county 05 Östergötlands län
+2025-10-08 01:49:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
+2025-10-08 01:52:30 Downloading observations for county 06 Jönköpings län
+2025-10-08 01:52:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:52:36 Downloading observations for county 07 Kronobergs län
+2025-10-08 01:52:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 01:53:20 Downloading observations for county 08 Kalmar län
+2025-10-08 01:53:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 01:54:11 Downloading observations for county 09 Gotlands län
+2025-10-08 01:54:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 11 seconds." }
+2025-10-08 01:54:24 Downloading observations for county 10 Blekinge län
+2025-10-08 01:54:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
+2025-10-08 01:57:31 Downloading observations for county 12 Skåne län
+2025-10-08 01:57:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 01:57:35 Query exceeds limit of 50000 observations.
+2025-10-08 01:57:35 Downloading observations for municipality 1260 Bjuv
+2025-10-08 01:57:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 45 seconds." }
+2025-10-08 01:58:49 Downloading observations for municipality 1272 Bromölla
+2025-10-08 01:58:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 22 seconds." }
+2025-10-08 01:59:14 Downloading observations for municipality 1231 Burlöv
+2025-10-08 01:59:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
+2025-10-08 01:59:38 Downloading observations for municipality 1278 Båstad
+2025-10-08 01:59:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 172 seconds." }
+2025-10-08 02:02:36 Downloading observations for municipality 1285 Eslöv
+2025-10-08 02:02:38 Downloading observations for municipality 1283 Helsingborg
+2025-10-08 02:02:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 02:03:24 Downloading observations for municipality 1293 Hässleholm
+2025-10-08 02:03:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 48 seconds." }
+2025-10-08 02:04:16 Downloading observations for municipality 1284 Höganäs
+2025-10-08 02:04:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
+2025-10-08 02:04:29 Downloading observations for municipality 1266 Hörby
+2025-10-08 02:04:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 182 seconds." }
+2025-10-08 02:07:34 Downloading observations for municipality 1267 Höör
+2025-10-08 02:07:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 02:07:40 Downloading observations for municipality 1276 Klippan
+2025-10-08 02:07:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 02:08:24 Downloading observations for municipality 1290 Kristianstad
+2025-10-08 02:08:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 02:09:22 Downloading observations for municipality 1261 Kävlinge
+2025-10-08 02:09:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 02:09:27 Downloading observations for municipality 1282 Landskrona
+2025-10-08 02:09:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
+2025-10-08 02:12:35 Downloading observations for municipality 1262 Lomma
+2025-10-08 02:12:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 02:12:40 Downloading observations for municipality 1281 Lund
+2025-10-08 02:12:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 02:13:27 Downloading observations for municipality 1280 Malmö
+2025-10-08 02:13:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 48 seconds." }
+2025-10-08 02:14:17 Downloading observations for municipality 1273 Osby
+2025-10-08 02:14:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 02:14:29 Downloading observations for municipality 1275 Perstorp
+2025-10-08 02:14:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
+2025-10-08 02:17:36 Downloading observations for municipality 1291 Simrishamn
+2025-10-08 02:17:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 02:17:42 Downloading observations for municipality 1265 Sjöbo
+2025-10-08 02:17:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 02:18:29 Downloading observations for municipality 1264 Skurup
+2025-10-08 02:18:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 47 seconds." }
+2025-10-08 02:19:18 Downloading observations for municipality 1230 Staffanstorp
+2025-10-08 02:19:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 02:19:29 Downloading observations for municipality 1214 Svalöv
+2025-10-08 02:19:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 186 seconds." }
+2025-10-08 02:22:38 Downloading observations for municipality 1263 Svedala
+2025-10-08 02:22:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 02:22:43 Downloading observations for municipality 1270 Tomelilla
+2025-10-08 02:22:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 02:23:29 Downloading observations for municipality 1287 Trelleborg
+2025-10-08 02:23:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 48 seconds." }
+2025-10-08 02:24:20 Downloading observations for municipality 1233 Vellinge
+2025-10-08 02:24:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
+2025-10-08 02:24:30 Downloading observations for municipality 1286 Ystad
+2025-10-08 02:24:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 186 seconds." }
+2025-10-08 02:27:39 Downloading observations for municipality 1277 Åstorp
+2025-10-08 02:27:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-10-08 02:27:45 Downloading observations for municipality 1292 Ängelholm
+2025-10-08 02:27:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 41 seconds." }
+2025-10-08 02:28:29 Downloading observations for municipality 1257 Örkelljunga
+2025-10-08 02:28:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 02:29:22 Downloading observations for municipality 1256 Östra Göinge
+2025-10-08 02:29:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
+2025-10-08 02:29:31 Downloading observations for county 13 Hallands län
+2025-10-08 02:29:32 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 186 seconds." }
+2025-10-08 02:32:40 Downloading observations for county 14 Västra Götalands län
+2025-10-08 02:32:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 02:32:45 Downloading observations for county 17 Värmlands län
+2025-10-08 02:32:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 02:33:29 Downloading observations for county 18 Örebro län
+2025-10-08 02:33:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 02:34:21 Downloading observations for county 19 Västmanlands län
+2025-10-08 02:34:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 02:34:32 Downloading observations for county 20 Dalarnas län
+2025-10-08 02:34:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 186 seconds." }
+2025-10-08 02:37:40 Downloading observations for county 21 Gävleborgs län
+2025-10-08 02:37:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 02:37:45 Downloading observations for county 22 Västernorrlands län
+2025-10-08 02:37:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
+2025-10-08 02:38:31 Downloading observations for county 23 Jämtlands län
+2025-10-08 02:38:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 02:39:22 Downloading observations for county 24 Västerbottens län
+2025-10-08 02:39:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 02:39:33 Downloading observations for county 25 Norrbottens län
+2025-10-08 02:39:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 186 seconds." }
+2025-10-08 02:42:41 2025-09-24
+2025-10-08 02:42:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 02:42:46 Query exceeds limit of 50000 observations.
+2025-10-08 02:42:46 Downloading observations for county 01 Stockholms län
+2025-10-08 02:42:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
+2025-10-08 02:43:32 Downloading observations for county 03 Uppsala län
+2025-10-08 02:43:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 02:44:24 Downloading observations for county 04 Södermanlands län
+2025-10-08 02:44:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
+2025-10-08 02:44:35 Downloading observations for county 05 Östergötlands län
+2025-10-08 02:44:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
+2025-10-08 02:47:43 Downloading observations for county 06 Jönköpings län
+2025-10-08 02:47:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 02:48:17 Downloading observations for county 07 Kronobergs län
+2025-10-08 02:48:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 14 seconds." }
+2025-10-08 02:48:46 Downloading observations for county 08 Kalmar län
+2025-10-08 02:48:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 37 seconds." }
+2025-10-08 02:50:18 Downloading observations for county 09 Gotlands län
+2025-10-08 02:50:19 Downloading observations for county 10 Blekinge län
+2025-10-08 02:50:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 142 seconds." }
+2025-10-08 02:52:43 Downloading observations for county 12 Skåne län
+2025-10-08 02:52:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2025-10-08 02:52:50 Downloading observations for county 13 Hallands län
+2025-10-08 02:52:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 02:53:34 Downloading observations for county 14 Västra Götalands län
+2025-10-08 02:53:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 02:54:28 Downloading observations for county 17 Värmlands län
+2025-10-08 02:54:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 02:55:21 Downloading observations for county 18 Örebro län
+2025-10-08 02:55:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 142 seconds." }
+2025-10-08 02:57:44 Downloading observations for county 19 Västmanlands län
+2025-10-08 02:57:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2025-10-08 02:57:50 Downloading observations for county 20 Dalarnas län
+2025-10-08 02:57:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 02:58:35 Downloading observations for county 21 Gävleborgs län
+2025-10-08 02:58:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 02:59:27 Downloading observations for county 22 Västernorrlands län
+2025-10-08 02:59:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 53 seconds." }
+2025-10-08 03:00:22 Downloading observations for county 23 Jämtlands län
+2025-10-08 03:00:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 142 seconds." }
+2025-10-08 03:02:47 Downloading observations for county 24 Västerbottens län
+2025-10-08 03:02:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 03:02:52 Downloading observations for county 25 Norrbottens län
+2025-10-08 03:02:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 03:03:37 2025-09-25
+2025-10-08 03:03:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 03:04:28 Query exceeds limit of 50000 observations.
+2025-10-08 03:04:28 Downloading observations for county 01 Stockholms län
+2025-10-08 03:04:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 53 seconds." }
+2025-10-08 03:05:26 Downloading observations for county 03 Uppsala län
+2025-10-08 03:05:26 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 139 seconds." }
+2025-10-08 03:07:48 Downloading observations for county 04 Södermanlands län
+2025-10-08 03:07:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 03:07:54 Downloading observations for county 05 Östergötlands län
+2025-10-08 03:07:55 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 41 seconds." }
+2025-10-08 03:08:40 Downloading observations for county 06 Jönköpings län
+2025-10-08 03:08:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 48 seconds." }
+2025-10-08 03:09:31 Downloading observations for county 07 Kronobergs län
+2025-10-08 03:09:32 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:10:25 Downloading observations for county 08 Kalmar län
+2025-10-08 03:10:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 141 seconds." }
+2025-10-08 03:12:49 Downloading observations for county 09 Gotlands län
+2025-10-08 03:12:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
+2025-10-08 03:12:57 Downloading observations for county 10 Blekinge län
+2025-10-08 03:12:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 40 seconds." }
+2025-10-08 03:13:39 Downloading observations for county 12 Skåne län
+2025-10-08 03:13:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 03:14:43 Downloading observations for county 13 Hallands län
+2025-10-08 03:14:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 40 seconds." }
+2025-10-08 03:15:27 Downloading observations for county 14 Västra Götalands län
+2025-10-08 03:15:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 140 seconds." }
+2025-10-08 03:17:51 Downloading observations for county 17 Värmlands län
+2025-10-08 03:17:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2025-10-08 03:17:56 Downloading observations for county 18 Örebro län
+2025-10-08 03:17:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 03:18:40 Downloading observations for county 19 Västmanlands län
+2025-10-08 03:18:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 03:19:33 Downloading observations for county 20 Dalarnas län
+2025-10-08 03:19:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:20:26 Downloading observations for county 21 Gävleborgs län
+2025-10-08 03:20:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 141 seconds." }
+2025-10-08 03:22:50 Downloading observations for county 22 Västernorrlands län
+2025-10-08 03:22:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 03:22:57 Downloading observations for county 23 Jämtlands län
+2025-10-08 03:22:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 03:23:41 Downloading observations for county 24 Västerbottens län
+2025-10-08 03:23:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:24:35 Downloading observations for county 25 Norrbottens län
+2025-10-08 03:24:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 03:25:28 2025-09-26
+2025-10-08 03:25:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 140 seconds." }
+2025-10-08 03:27:57 2025-09-27
+2025-10-08 03:28:10 2025-09-28
+2025-10-08 03:28:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 30 seconds." }
+2025-10-08 03:28:46 Query exceeds limit of 50000 observations.
+2025-10-08 03:28:46 Downloading observations for county 01 Stockholms län
+2025-10-08 03:28:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 47 seconds." }
+2025-10-08 03:29:35 Downloading observations for county 03 Uppsala län
+2025-10-08 03:29:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:30:28 Downloading observations for county 04 Södermanlands län
+2025-10-08 03:30:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 141 seconds." }
+2025-10-08 03:32:51 Downloading observations for county 05 Östergötlands län
+2025-10-08 03:32:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2025-10-08 03:32:59 Downloading observations for county 06 Jönköpings län
+2025-10-08 03:33:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 03:33:44 Downloading observations for county 07 Kronobergs län
+2025-10-08 03:33:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 50 seconds." }
+2025-10-08 03:34:36 Downloading observations for county 08 Kalmar län
+2025-10-08 03:34:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 52 seconds." }
+2025-10-08 03:35:29 Query exceeds limit of 50000 observations.
+2025-10-08 03:35:29 Downloading observations for municipality 0885 Borgholm
+2025-10-08 03:35:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 142 seconds." }
+2025-10-08 03:37:52 Downloading observations for municipality 0862 Emmaboda
+2025-10-08 03:37:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2025-10-08 03:38:00 Downloading observations for municipality 0860 Hultsfred
+2025-10-08 03:38:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 03:38:44 Downloading observations for municipality 0821 Högsby
+2025-10-08 03:38:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:39:36 Downloading observations for municipality 0880 Kalmar
+2025-10-08 03:39:37 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 53 seconds." }
+2025-10-08 03:40:30 Downloading observations for municipality 0861 Mönsterås
+2025-10-08 03:40:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 142 seconds." }
+2025-10-08 03:42:54 Downloading observations for municipality 0840 Mörbylånga
+2025-10-08 03:42:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2025-10-08 03:43:01 Downloading observations for municipality 0881 Nybro
+2025-10-08 03:43:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 03:43:45 Downloading observations for municipality 0882 Oskarshamn
+2025-10-08 03:43:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:44:38 Downloading observations for municipality 0834 Torsås
+2025-10-08 03:44:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 52 seconds." }
+2025-10-08 03:45:31 Downloading observations for municipality 0884 Vimmerby
+2025-10-08 03:45:32 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 142 seconds." }
+2025-10-08 03:47:54 Downloading observations for municipality 0883 Västervik
+2025-10-08 03:47:55 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2025-10-08 03:48:02 Downloading observations for county 09 Gotlands län
+2025-10-08 03:48:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 03:48:47 Downloading observations for county 10 Blekinge län
+2025-10-08 03:48:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:49:40 Downloading observations for county 12 Skåne län
+2025-10-08 03:49:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:50:34 Downloading observations for county 13 Hallands län
+2025-10-08 03:50:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 141 seconds." }
+2025-10-08 03:52:57 Downloading observations for county 14 Västra Götalands län
+2025-10-08 03:52:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 03:53:04 Downloading observations for county 17 Värmlands län
+2025-10-08 03:53:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
+2025-10-08 03:53:48 Downloading observations for county 18 Örebro län
+2025-10-08 03:53:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 51 seconds." }
+2025-10-08 03:54:41 Downloading observations for county 19 Västmanlands län
+2025-10-08 03:54:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 52 seconds." }
+2025-10-08 03:55:35 Downloading observations for county 20 Dalarnas län
+2025-10-08 03:55:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 141 seconds." }
+2025-10-08 03:57:58 Downloading observations for county 21 Gävleborgs län
+2025-10-08 03:57:58 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2025-10-08 03:58:05 Downloading observations for county 22 Västernorrlands län
+2025-10-08 03:58:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
+2025-10-08 03:59:23 Downloading observations for county 23 Jämtlands län
+2025-10-08 03:59:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 17 seconds." }
+2025-10-08 03:59:42 Downloading observations for county 24 Västerbottens län
+2025-10-08 03:59:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 52 seconds." }
+2025-10-08 04:00:36 Downloading observations for county 25 Norrbottens län
+2025-10-08 04:00:37 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 141 seconds." }
+2025-10-08 04:03:00 2025-09-29
+2025-10-08 04:03:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2025-10-08 04:04:04 2025-09-30
+2025-10-08 04:04:08 2025-10-01
+2025-10-08 04:04:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 33 seconds." }
+2025-10-08 04:04:46 2025-10-02
+2025-10-08 04:04:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 04:05:41 2025-10-03
+2025-10-08 04:05:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 138 seconds." }
+2025-10-08 04:08:04 2025-10-04
+2025-10-08 04:08:09 2025-10-05
+2025-10-08 04:08:10 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 55 seconds." }
+2025-10-08 04:09:10 2025-10-06
+2025-10-08 04:09:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 32 seconds." }
+2025-10-08 04:09:48 2025-10-07
+2025-10-08 04:09:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 49 seconds." }
+2025-10-08 04:10:42 2025-10-08
+2025-10-08 04:10:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 139 seconds." }
+2025-10-08 04:13:02 Copying observations
+2025-10-08 04:13:04 Processing.
+2025-10-08 04:13:04 Loading species.
+2025-10-08 04:13:08 Loading observations.
+2025-10-08 05:27:10 Loading notifications.
+2025-10-08 05:35:02 Adding observations to notifications.
+2025-10-08 08:14:45 Freeing memory.
+2025-10-08 08:14:58 Loading observation Excel dictionaries.
+2025-10-08 08:35:50 Adding owners.
+2025-10-08 08:43:18 Processing logging notifications.
+2025-10-08 08:43:18 Generating observation maps.
+2025-10-08 13:20:44 Generating knärot maps.
+2025-10-08 14:17:19 Generating complaints.
+2025-10-08 14:20:58 Generating complaint letters.
+2025-10-08 14:23:10 Generating requests.
+2025-10-08 14:25:56 Generating request letters.
+2025-10-08 14:28:17 Saving notification information to Excel.
+2025-10-08 14:37:09 Saving list of notifications to json.
+2025-10-08 14:37:09 Copying species text document.
+2025-10-08 14:37:09 Saving observations to Excel.
+2025-10-08 14:38:27 Pushing repo C:\git\Logging_SVERIGE.
+2025-10-08 14:38:27 Pushing 313 repos.
