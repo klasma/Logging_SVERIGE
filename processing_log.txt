@@ -1,67 +1,100 @@
-2025-11-20 00:00:07 Started replace_files_sweden.
-2025-11-20 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
-2025-11-20 00:00:11 Downloading notifications.
-2025-11-20 06:44:57 Downloading observations.
-2025-11-20 06:44:57 2025-10-21
-2025-11-20 06:45:03 2025-10-22
-2025-11-20 06:45:07 2025-10-23
-2025-11-20 06:45:10 2025-10-24
-2025-11-20 06:45:15 2025-10-25
-2025-11-20 06:45:21 2025-10-26
-2025-11-20 06:45:50 2025-10-27
-2025-11-20 06:45:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 253 seconds." }
-2025-11-20 06:50:09 2025-10-28
-2025-11-20 06:50:15 2025-10-29
-2025-11-20 06:50:18 2025-10-30
-2025-11-20 06:50:24 2025-10-31
-2025-11-20 06:50:29 2025-11-01
-2025-11-20 06:50:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 20 seconds." }
-2025-11-20 06:51:01 2025-11-02
-2025-11-20 06:51:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 248 seconds." }
-2025-11-20 06:55:16 2025-11-03
-2025-11-20 06:55:22 2025-11-04
-2025-11-20 06:56:56 2025-11-05
-2025-11-20 06:57:16 2025-11-06
-2025-11-20 06:57:35 2025-11-07
-2025-11-20 06:58:17 2025-11-08
-2025-11-20 06:58:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 119 seconds." }
-2025-11-20 07:00:28 2025-11-09
-2025-11-20 07:00:34 2025-11-10
-2025-11-20 07:00:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 80 seconds." }
-2025-11-20 07:02:18 2025-11-11
-2025-11-20 07:02:34 2025-11-12
-2025-11-20 07:02:38 2025-11-13
-2025-11-20 07:02:39 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 38 seconds." }
-2025-11-20 07:03:24 2025-11-14
-2025-11-20 07:03:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 124 seconds." }
-2025-11-20 07:05:35 2025-11-15
-2025-11-20 07:05:43 2025-11-16
-2025-11-20 07:05:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 94 seconds." }
-2025-11-20 07:07:29 2025-11-17
-2025-11-20 07:07:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-11-20 07:08:23 2025-11-18
-2025-11-20 07:08:28 2025-11-19
-2025-11-20 07:08:36 2025-11-20
-2025-11-20 07:08:37 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 119 seconds." }
-2025-11-20 07:10:50 Copying observations
-2025-11-20 07:10:52 Processing.
-2025-11-20 07:10:52 Loading species.
-2025-11-20 07:10:56 Loading observations.
-2025-11-20 08:25:52 Loading notifications.
-2025-11-20 08:34:30 Adding observations to notifications.
-2025-11-20 11:20:56 Freeing memory.
-2025-11-20 11:21:10 Loading observation Excel dictionaries.
-2025-11-20 11:42:34 Adding owners.
-2025-11-20 11:50:20 Processing logging notifications.
-2025-11-20 11:50:21 Generating observation maps.
-2025-11-20 16:41:41 Generating knärot maps.
-2025-11-20 17:41:30 Generating complaints.
-2025-11-20 17:45:19 Generating complaint letters.
-2025-11-20 17:47:32 Generating requests.
-2025-11-20 17:50:28 Generating request letters.
-2025-11-20 17:52:58 Saving notification information to Excel.
-2025-11-20 18:02:39 Saving list of notifications to json.
-2025-11-20 18:02:39 Copying species text document.
-2025-11-20 18:02:39 Saving observations to Excel.
-2025-11-20 18:04:04 Pushing repo C:\git\Logging_SVERIGE.
-2025-11-20 18:04:04 Pushing 313 repos.
+2025-11-21 09:42:43 Started replace_files_sweden.
+2025-11-21 09:42:43 Clearing repo C:\git\Logging_SVERIGE.
+2025-11-21 09:43:04 Downloading notifications.
+2025-11-21 09:43:11 Downloading observations.
+2025-11-21 09:43:11 2025-10-22
+2025-11-21 09:43:12 <html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-11-21 09:43:14 <html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-11-21 09:43:15 <html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-11-21 09:43:17 <html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-11-21 09:43:32 2025-10-23
+2025-11-21 09:43:37 2025-10-24
+2025-11-21 09:43:43 2025-10-25
+2025-11-21 09:43:47 2025-10-26
+2025-11-21 09:44:10 2025-10-27
+2025-11-21 09:44:15 2025-10-28
+2025-11-21 09:44:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 256 seconds." }
+2025-11-21 09:48:36 2025-10-29
+2025-11-21 09:48:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2025-11-21 09:48:42 2025-10-30
+2025-11-21 09:48:47 2025-10-31
+2025-11-21 09:48:50 2025-11-01
+2025-11-21 09:48:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 18 seconds." }
+2025-11-21 09:49:21 2025-11-02
+2025-11-21 09:49:27 2025-11-03
+2025-11-21 09:49:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 249 seconds." }
+2025-11-21 09:53:43 2025-11-04
+2025-11-21 09:55:27 2025-11-05
+2025-11-21 09:55:34 2025-11-06
+2025-11-21 09:55:55 2025-11-07
+2025-11-21 09:56:26 2025-11-08
+2025-11-21 09:56:32 2025-11-09
+2025-11-21 09:56:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 130 seconds." }
+2025-11-21 09:58:48 2025-11-10
+2025-11-21 09:58:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 97 seconds." }
+2025-11-21 10:00:50 2025-11-11
+2025-11-21 10:01:08 2025-11-12
+2025-11-21 10:01:11 2025-11-13
+2025-11-21 10:01:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 15 seconds." }
+2025-11-21 10:01:33 2025-11-14
+2025-11-21 10:01:36 2025-11-15
+2025-11-21 10:01:37 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 131 seconds." }
+2025-11-21 10:03:52 2025-11-16
+2025-11-21 10:03:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 117 seconds." }
+2025-11-21 10:05:56 2025-11-17
+2025-11-21 10:05:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 11 seconds." }
+2025-11-21 10:06:32 2025-11-18
+2025-11-21 10:06:37 2025-11-19
+2025-11-21 10:06:58 2025-11-20
+2025-11-21 10:07:12 2025-11-21
+2025-11-21 10:07:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 100 seconds." }
+2025-11-21 10:08:56 Copying observations
+2025-11-21 10:08:56 Processing.
+2025-11-21 10:08:56 Loading species.
+2025-11-21 10:09:00 Loading observations.
+2025-11-21 11:24:36 Loading notifications.
+2025-11-21 11:33:13 Adding observations to notifications.
+2025-11-21 14:18:05 Freeing memory.
+2025-11-21 14:18:18 Loading observation Excel dictionaries.
+2025-11-21 14:39:26 Adding owners.
+2025-11-21 14:47:19 Processing logging notifications.
+2025-11-21 14:47:19 Generating observation maps.
+2025-11-21 19:36:52 Generating knärot maps.
+2025-11-21 20:37:16 Generating complaints.
+2025-11-21 20:41:08 Generating complaint letters.
+2025-11-21 20:43:19 Generating requests.
+2025-11-21 20:46:13 Generating request letters.
+2025-11-21 20:48:40 Saving notification information to Excel.
+2025-11-21 20:58:07 Saving list of notifications to json.
+2025-11-21 20:58:07 Copying species text document.
+2025-11-21 20:58:07 Saving observations to Excel.
+2025-11-21 20:59:31 Pushing repo C:\git\Logging_SVERIGE.
+2025-11-21 20:59:31 Pushing 313 repos.
