@@ -1,79 +1,61 @@
-2025-12-31 00:00:05 Started replace_files_sweden.
-2025-12-31 00:00:05 Clearing repo C:\git\Logging_SVERIGE.
-2025-12-31 00:00:57 Downloading notifications.
-2025-12-31 00:01:03 Downloading observations.
-2025-12-31 00:01:03 2025-12-01
-2025-12-31 00:01:04 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 260 seconds." }
-2025-12-31 00:05:29 2025-12-02
-2025-12-31 00:05:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-12-31 00:05:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-12-31 00:05:41 2025-12-03
-2025-12-31 00:05:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2025-12-31 00:05:48 2025-12-04
-2025-12-31 00:05:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 280 seconds." }
-2025-12-31 00:10:33 2025-12-05
-2025-12-31 00:10:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2025-12-31 00:10:47 2025-12-06
-2025-12-31 00:10:50 2025-12-07
-2025-12-31 00:10:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 283 seconds." }
-2025-12-31 00:15:36 2025-12-08
-2025-12-31 00:15:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2025-12-31 00:15:50 2025-12-09
-2025-12-31 00:15:54 2025-12-10
-2025-12-31 00:15:59 2025-12-11
-2025-12-31 00:15:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 277 seconds." }
-2025-12-31 00:20:41 2025-12-12
-2025-12-31 00:20:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-12-31 00:20:58 2025-12-13
-2025-12-31 00:21:00 2025-12-14
-2025-12-31 00:21:02 2025-12-15
-2025-12-31 00:21:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 279 seconds." }
-2025-12-31 00:25:46 2025-12-16
-2025-12-31 00:25:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 12 seconds." }
-2025-12-31 00:26:04 2025-12-17
-2025-12-31 00:26:08 2025-12-18
-2025-12-31 00:26:14 2025-12-19
-2025-12-31 00:26:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 271 seconds." }
-2025-12-31 00:30:53 2025-12-20
-2025-12-31 00:30:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-12-31 00:31:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2025-12-31 00:31:08 2025-12-21
-2025-12-31 00:31:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2025-12-31 00:31:17 2025-12-22
-2025-12-31 00:31:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 275 seconds." }
-2025-12-31 00:36:40 2025-12-23
-2025-12-31 00:36:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 260 seconds." }
-2025-12-31 00:41:04 2025-12-24
-2025-12-31 00:41:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-12-31 00:41:16 2025-12-25
-2025-12-31 00:41:19 2025-12-26
-2025-12-31 00:41:22 2025-12-27
-2025-12-31 00:41:25 2025-12-28
-2025-12-31 00:41:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 15 seconds." }
-2025-12-31 00:41:45 2025-12-29
-2025-12-31 00:41:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 259 seconds." }
-2025-12-31 00:46:07 2025-12-30
-2025-12-31 00:46:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2025-12-31 00:46:19 2025-12-31
-2025-12-31 00:46:20 Copying observations
-2025-12-31 00:46:21 Processing.
-2025-12-31 00:46:21 Loading species.
-2025-12-31 00:46:25 Loading observations.
-2025-12-31 01:34:46 Loading notifications.
-2025-12-31 01:39:42 Adding observations to notifications.
-2025-12-31 04:21:11 Freeing memory.
-2025-12-31 04:21:24 Loading observation Excel dictionaries.
-2025-12-31 04:44:50 Adding owners.
-2025-12-31 04:49:12 Processing logging notifications.
-2025-12-31 04:49:12 Generating observation maps.
-2025-12-31 09:42:41 Generating knärot maps.
-2025-12-31 10:39:41 Generating complaints.
-2025-12-31 10:43:22 Generating complaint letters.
-2025-12-31 10:45:52 Generating requests.
-2025-12-31 10:48:50 Generating request letters.
-2025-12-31 10:51:05 Saving notification information to Excel.
-2025-12-31 10:56:20 Saving list of notifications to json.
-2025-12-31 10:56:20 Copying species text document.
-2025-12-31 10:56:20 Saving observations to Excel.
-2025-12-31 10:58:38 Pushing repo C:\git\Logging_SVERIGE.
-2025-12-31 10:58:38 Pushing 313 repos.
+2026-01-03 00:48:31 Started replace_files_sweden.
+2026-01-03 00:48:31 Clearing repo D:\git\Logging_SVERIGE.
+2026-01-03 00:48:37 Downloading notifications.
+2026-01-03 00:49:26 Downloading observations.
+2026-01-03 00:49:26 2025-12-04
+2026-01-03 00:49:30 2025-12-05
+2026-01-03 00:49:36 2025-12-06
+2026-01-03 00:49:39 2025-12-07
+2026-01-03 00:49:42 2025-12-08
+2026-01-03 00:49:46 2025-12-09
+2026-01-03 00:49:52 2025-12-10
+2026-01-03 00:49:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 278 seconds." }
+2026-01-03 00:54:36 2025-12-11
+2026-01-03 00:54:40 2025-12-12
+2026-01-03 00:54:45 2025-12-13
+2026-01-03 00:54:48 2025-12-14
+2026-01-03 00:54:50 2025-12-15
+2026-01-03 00:54:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2026-01-03 00:54:56 2025-12-16
+2026-01-03 00:54:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 280 seconds." }
+2026-01-03 00:59:42 2025-12-17
+2026-01-03 00:59:47 2025-12-18
+2026-01-03 00:59:54 2025-12-19
+2026-01-03 00:59:58 2025-12-20
+2026-01-03 01:00:01 2025-12-21
+2026-01-03 01:00:06 2025-12-22
+2026-01-03 01:00:07 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 276 seconds." }
+2026-01-03 01:05:42 2025-12-23
+2026-01-03 01:05:46 2025-12-24
+2026-01-03 01:05:49 2025-12-25
+2026-01-03 01:05:52 2025-12-26
+2026-01-03 01:05:55 2025-12-27
+2026-01-03 01:05:58 2025-12-28
+2026-01-03 01:06:03 2025-12-29
+2026-01-03 01:06:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 283 seconds." }
+2026-01-03 01:10:50 2025-12-30
+2026-01-03 01:11:00 2025-12-31
+2026-01-03 01:11:03 2026-01-01
+2026-01-03 01:11:11 2026-01-02
+2026-01-03 01:11:15 2026-01-03
+2026-01-03 01:11:16 Copying observations
+2026-01-03 01:11:17 Processing.
+2026-01-03 01:11:17 Loading species.
+2026-01-03 01:11:20 Loading observations.
+2026-01-03 01:55:26 Loading notifications.
+2026-01-03 01:59:54 Adding observations to notifications.
+2026-01-03 04:04:54 Freeing memory.
+2026-01-03 04:05:03 Loading observation Excel dictionaries.
+2026-01-03 04:21:10 Adding owners.
+2026-01-03 04:25:42 Processing logging notifications.
+2026-01-03 04:25:43 Generating observation maps.
+2026-01-03 10:10:07 Generating knärot maps.
+2026-01-03 11:19:25 Generating complaints.
+2026-01-03 11:23:55 Generating complaint letters.
+2026-01-03 11:26:24 Generating requests.
+2026-01-03 11:29:48 Generating request letters.
+2026-01-03 11:33:48 Saving notification information to Excel.
+2026-01-03 11:38:46 Saving list of notifications to json.
+2026-01-03 11:38:46 Copying species text document.
+2026-01-03 11:38:46 Saving observations to Excel.
+2026-01-03 11:39:41 Finished replace_files_sweden.
