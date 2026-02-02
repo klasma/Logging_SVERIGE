@@ -1,75 +1,71 @@
-2026-02-01 00:00:07 Started replace_files_sweden.
-2026-02-01 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
-2026-02-01 00:10:31 Downloading notifications.
-2026-02-01 00:10:39 Downloading observations.
-2026-02-01 00:10:39 2026-01-02
-2026-02-01 00:10:48 2026-01-03
-2026-02-01 00:11:10 2026-01-04
-2026-02-01 00:11:15 2026-01-05
-2026-02-01 00:11:21 2026-01-06
-2026-02-01 00:11:48 2026-01-07
-2026-02-01 00:12:03 2026-01-08
-2026-02-01 00:12:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 224 seconds." }
-2026-02-01 00:15:53 2026-01-09
-2026-02-01 00:15:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 16 seconds." }
-2026-02-01 00:16:37 2026-01-10
-2026-02-01 00:16:44 2026-01-11
-2026-02-01 00:16:49 2026-01-12
-2026-02-01 00:17:22 2026-01-13
-2026-02-01 00:17:47 2026-01-14
-2026-02-01 00:17:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
-2026-02-01 00:20:58 2026-01-15
-2026-02-01 00:20:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 38 seconds." }
-2026-02-01 00:21:42 2026-01-16
-2026-02-01 00:21:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-02-01 00:21:48 2026-01-17
-2026-02-01 00:21:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-02-01 00:21:53 2026-01-18
-2026-02-01 00:21:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 28 seconds." }
-2026-02-01 00:22:26 2026-01-19
-2026-02-01 00:22:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 20 seconds." }
-2026-02-01 00:22:53 2026-01-20
-2026-02-01 00:22:54 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 185 seconds." }
-2026-02-01 00:26:03 2026-01-21
-2026-02-01 00:26:04 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 38 seconds." }
-2026-02-01 00:26:46 2026-01-22
-2026-02-01 00:26:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-02-01 00:27:40 2026-01-23
-2026-02-01 00:27:43 2026-01-24
-2026-02-01 00:27:47 2026-01-25
-2026-02-01 00:27:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2026-02-01 00:27:57 2026-01-26
-2026-02-01 00:27:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 186 seconds." }
-2026-02-01 00:31:08 2026-01-27
-2026-02-01 00:31:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 37 seconds." }
-2026-02-01 00:31:51 2026-01-28
-2026-02-01 00:31:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 48 seconds." }
-2026-02-01 00:32:42 2026-01-29
-2026-02-01 00:32:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-02-01 00:32:47 2026-01-30
-2026-02-01 00:32:51 2026-01-31
-2026-02-01 00:32:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2026-02-01 00:33:00 2026-02-01
-2026-02-01 00:33:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 188 seconds." }
-2026-02-01 00:36:10 Copying observations
-2026-02-01 00:36:11 Processing.
-2026-02-01 00:36:11 Loading species.
-2026-02-01 00:36:16 Loading observations.
-2026-02-01 01:52:55 Loading notifications.
-2026-02-01 02:01:43 Adding observations to notifications.
-2026-02-01 04:58:02 Freeing memory.
-2026-02-01 04:58:17 Loading observation Excel dictionaries.
-2026-02-01 05:22:11 Adding owners.
-2026-02-01 05:30:23 Processing logging notifications.
-2026-02-01 05:30:24 Generating observation maps.
-2026-02-01 10:40:01 Generating knärot maps.
-2026-02-01 11:42:20 Generating complaints.
-2026-02-01 11:46:30 Generating complaint letters.
-2026-02-01 11:48:48 Generating requests.
-2026-02-01 11:52:02 Generating request letters.
-2026-02-01 11:57:11 Saving notification information to Excel.
-2026-02-01 12:07:59 Saving list of notifications to json.
-2026-02-01 12:07:59 Copying species text document.
-2026-02-01 12:07:59 Saving observations to Excel.
-2026-02-01 12:09:30 Pushing repo C:\git\Logging_SVERIGE.
-2026-02-01 12:09:30 Pushing 313 repos.
+2026-02-02 00:00:10 Started replace_files_sweden.
+2026-02-02 00:00:10 Clearing repo C:\git\Logging_SVERIGE.
+2026-02-02 00:10:04 Downloading notifications.
+2026-02-02 00:10:10 Downloading observations.
+2026-02-02 00:10:10 2026-01-03
+2026-02-02 00:10:36 2026-01-04
+2026-02-02 00:10:40 2026-01-05
+2026-02-02 00:10:46 2026-01-06
+2026-02-02 00:11:00 2026-01-07
+2026-02-02 00:11:17 2026-01-08
+2026-02-02 00:11:22 2026-01-09
+2026-02-02 00:11:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 253 seconds." }
+2026-02-02 00:16:04 2026-01-10
+2026-02-02 00:16:08 2026-01-11
+2026-02-02 00:16:14 2026-01-12
+2026-02-02 00:16:51 2026-01-13
+2026-02-02 00:17:14 2026-01-14
+2026-02-02 00:17:19 2026-01-15
+2026-02-02 00:17:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 223 seconds." }
+2026-02-02 00:21:08 2026-01-16
+2026-02-02 00:21:12 2026-01-17
+2026-02-02 00:21:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2026-02-02 00:21:17 2026-01-18
+2026-02-02 00:21:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 32 seconds." }
+2026-02-02 00:21:54 2026-01-19
+2026-02-02 00:21:55 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 19 seconds." }
+2026-02-02 00:22:20 2026-01-20
+2026-02-02 00:22:24 2026-01-21
+2026-02-02 00:22:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 223 seconds." }
+2026-02-02 00:26:12 2026-01-22
+2026-02-02 00:27:02 2026-01-23
+2026-02-02 00:27:07 2026-01-24
+2026-02-02 00:27:12 2026-01-25
+2026-02-02 00:27:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
+2026-02-02 00:27:23 2026-01-26
+2026-02-02 00:27:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2026-02-02 00:27:30 2026-01-27
+2026-02-02 00:27:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 222 seconds." }
+2026-02-02 00:31:17 2026-01-28
+2026-02-02 00:31:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 44 seconds." }
+2026-02-02 00:32:05 2026-01-29
+2026-02-02 00:32:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2026-02-02 00:32:11 2026-01-30
+2026-02-02 00:32:16 2026-01-31
+2026-02-02 00:32:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
+2026-02-02 00:32:27 2026-02-01
+2026-02-02 00:32:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2026-02-02 00:32:33 2026-02-02
+2026-02-02 00:32:34 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 223 seconds." }
+2026-02-02 00:36:17 Copying observations
+2026-02-02 00:36:19 Processing.
+2026-02-02 00:36:19 Loading species.
+2026-02-02 00:36:23 Loading observations.
+2026-02-02 01:53:03 Loading notifications.
+2026-02-02 02:01:45 Adding observations to notifications.
+2026-02-02 04:58:10 Freeing memory.
+2026-02-02 04:58:24 Loading observation Excel dictionaries.
+2026-02-02 05:22:29 Adding owners.
+2026-02-02 05:30:41 Processing logging notifications.
+2026-02-02 05:30:42 Generating observation maps.
+2026-02-02 10:41:17 Generating knärot maps.
+2026-02-02 11:43:41 Generating complaints.
+2026-02-02 11:47:50 Generating complaint letters.
+2026-02-02 11:50:08 Generating requests.
+2026-02-02 11:53:22 Generating request letters.
+2026-02-02 11:58:39 Saving notification information to Excel.
+2026-02-02 12:09:22 Saving list of notifications to json.
+2026-02-02 12:09:22 Copying species text document.
+2026-02-02 12:09:22 Saving observations to Excel.
+2026-02-02 12:10:58 Pushing repo C:\git\Logging_SVERIGE.
+2026-02-02 12:10:58 Pushing 313 repos.
