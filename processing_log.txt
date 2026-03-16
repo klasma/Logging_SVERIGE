@@ -1,65 +1,95 @@
-2026-03-13 00:00:07 Started replace_files_sweden.
-2026-03-13 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
-2026-03-13 00:11:03 Downloading notifications.
-2026-03-13 00:11:12 Downloading observations.
-2026-03-13 00:11:12 2026-02-11
-2026-03-13 00:11:19 2026-02-12
-2026-03-13 00:11:22 2026-02-13
-2026-03-13 00:11:25 2026-02-14
-2026-03-13 00:11:28 2026-02-15
-2026-03-13 00:11:31 2026-02-16
-2026-03-13 00:11:35 2026-02-17
-2026-03-13 00:11:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 283 seconds." }
-2026-03-13 00:16:21 2026-02-18
-2026-03-13 00:16:25 2026-02-19
-2026-03-13 00:16:28 2026-02-20
-2026-03-13 00:16:30 2026-02-21
-2026-03-13 00:16:33 2026-02-22
-2026-03-13 00:16:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2026-03-13 00:16:40 2026-02-23
-2026-03-13 00:16:40 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 281 seconds." }
-2026-03-13 00:21:41 2026-02-24
-2026-03-13 00:21:45 2026-02-25
-2026-03-13 00:21:52 2026-02-26
-2026-03-13 00:21:57 2026-02-27
-2026-03-13 00:22:04 2026-02-28
-2026-03-13 00:22:10 2026-03-01
-2026-03-13 00:22:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 270 seconds." }
-2026-03-13 00:26:47 2026-03-02
-2026-03-13 00:26:52 2026-03-03
-2026-03-13 00:26:57 2026-03-04
-2026-03-13 00:27:02 2026-03-05
-2026-03-13 00:27:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-03-13 00:27:08 2026-03-06
-2026-03-13 00:27:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-03-13 00:27:13 2026-03-07
-2026-03-13 00:27:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 273 seconds." }
-2026-03-13 00:31:54 2026-03-08
-2026-03-13 00:32:03 2026-03-09
-2026-03-13 00:32:07 2026-03-10
-2026-03-13 00:32:20 2026-03-11
-2026-03-13 00:32:23 2026-03-12
-2026-03-13 00:32:28 2026-03-13
-2026-03-13 00:32:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 265 seconds." }
-2026-03-13 00:36:54 Copying observations
-2026-03-13 00:36:55 Processing.
-2026-03-13 00:36:55 Loading species.
-2026-03-13 00:37:00 Loading observations.
-2026-03-13 01:55:40 Loading notifications.
-2026-03-13 02:04:46 Adding observations to notifications.
-2026-03-13 05:07:33 Freeing memory.
-2026-03-13 05:07:48 Loading observation Excel dictionaries.
-2026-03-13 05:29:50 Adding owners.
-2026-03-13 05:38:30 Processing logging notifications.
-2026-03-13 05:38:30 Generating observation maps.
-2026-03-13 10:56:39 Generating knärot maps.
-2026-03-13 11:59:13 Generating complaints.
-2026-03-13 12:03:27 Generating complaint letters.
-2026-03-13 12:05:49 Generating requests.
-2026-03-13 12:09:09 Generating request letters.
-2026-03-13 12:12:03 Saving notification information to Excel.
-2026-03-13 12:22:59 Saving list of notifications to json.
-2026-03-13 12:22:59 Copying species text document.
-2026-03-13 12:22:59 Saving observations to Excel.
-2026-03-13 12:24:20 Pushing repo C:\git\Logging_SVERIGE.
-2026-03-13 12:24:20 Pushing 313 repos.
+2026-03-16 00:00:07 Started replace_files_sweden.
+2026-03-16 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
+2026-03-16 00:00:17 Downloading notifications.
+2026-03-16 00:00:25 Downloading observations.
+2026-03-16 00:00:25 2026-02-14
+2026-03-16 00:00:29 2026-02-15
+2026-03-16 00:00:33 2026-02-16
+2026-03-16 00:00:36 2026-02-17
+2026-03-16 00:00:42 2026-02-18
+2026-03-16 00:00:45 2026-02-19
+2026-03-16 00:00:48 2026-02-20
+2026-03-16 00:00:51 2026-02-21
+2026-03-16 00:00:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 281 seconds." }
+2026-03-16 00:05:37 2026-02-22
+2026-03-16 00:05:42 2026-02-23
+2026-03-16 00:05:59 2026-02-24
+2026-03-16 00:06:04 2026-02-25
+2026-03-16 00:06:08 2026-02-26
+2026-03-16 00:06:13 2026-02-27
+2026-03-16 00:06:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 263 seconds." }
+2026-03-16 00:10:42 2026-02-28
+2026-03-16 00:10:55 2026-03-01
+2026-03-16 00:10:55 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
+2026-03-16 00:11:05 2026-03-02
+2026-03-16 00:11:10 2026-03-03
+2026-03-16 00:11:15 2026-03-04
+2026-03-16 00:11:20 2026-03-05
+2026-03-16 00:11:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 261 seconds." }
+2026-03-16 00:15:47 2026-03-06
+2026-03-16 00:15:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
+2026-03-16 00:15:58 2026-03-07
+2026-03-16 00:15:58 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
+2026-03-16 00:16:11 2026-03-08
+2026-03-16 00:16:18 2026-03-09
+2026-03-16 00:16:23 2026-03-10
+2026-03-16 00:16:33 2026-03-11
+2026-03-16 00:16:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 253 seconds." }
+2026-03-16 00:20:47 Query exceeds limit of 50000 observations.
+2026-03-16 00:20:47 Downloading observations for county 01 Stockholms län
+2026-03-16 00:21:46 Downloading observations for county 03 Uppsala län
+2026-03-16 00:22:45 Downloading observations for county 04 Södermanlands län
+2026-03-16 00:22:46 Downloading observations for county 05 Östergötlands län
+2026-03-16 00:22:47 Downloading observations for county 06 Jönköpings län
+2026-03-16 00:22:48 Downloading observations for county 07 Kronobergs län
+2026-03-16 00:22:50 Downloading observations for county 08 Kalmar län
+2026-03-16 00:22:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 235 seconds." }
+2026-03-16 00:26:47 Downloading observations for county 09 Gotlands län
+2026-03-16 00:26:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 57 seconds." }
+2026-03-16 00:27:45 Downloading observations for county 10 Blekinge län
+2026-03-16 00:27:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2026-03-16 00:27:48 Downloading observations for county 12 Skåne län
+2026-03-16 00:27:49 Downloading observations for county 13 Hallands län
+2026-03-16 00:27:50 Downloading observations for county 14 Västra Götalands län
+2026-03-16 00:27:52 Downloading observations for county 17 Värmlands län
+2026-03-16 00:27:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 235 seconds." }
+2026-03-16 00:31:48 Downloading observations for county 18 Örebro län
+2026-03-16 00:31:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 57 seconds." }
+2026-03-16 00:32:47 Downloading observations for county 19 Västmanlands län
+2026-03-16 00:32:49 Downloading observations for county 20 Dalarnas län
+2026-03-16 00:32:50 Downloading observations for county 21 Gävleborgs län
+2026-03-16 00:32:52 Downloading observations for county 22 Västernorrlands län
+2026-03-16 00:32:53 Downloading observations for county 23 Jämtlands län
+2026-03-16 00:32:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 236 seconds." }
+2026-03-16 00:36:50 Downloading observations for county 24 Västerbottens län
+2026-03-16 00:36:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 57 seconds." }
+2026-03-16 00:37:49 Downloading observations for county 25 Norrbottens län
+2026-03-16 00:38:02 2026-03-12
+2026-03-16 00:38:08 2026-03-13
+2026-03-16 00:38:12 2026-03-14
+2026-03-16 00:38:16 2026-03-15
+2026-03-16 00:38:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 214 seconds." }
+2026-03-16 00:41:57 2026-03-16
+2026-03-16 00:41:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 52 seconds." }
+2026-03-16 00:42:50 Copying observations
+2026-03-16 00:42:51 Processing.
+2026-03-16 00:42:51 Loading species.
+2026-03-16 00:42:56 Loading observations.
+2026-03-16 02:00:22 Loading notifications.
+2026-03-16 02:09:23 Adding observations to notifications.
+2026-03-16 05:11:44 Freeing memory.
+2026-03-16 05:11:59 Loading observation Excel dictionaries.
+2026-03-16 05:34:12 Adding owners.
+2026-03-16 05:42:40 Processing logging notifications.
+2026-03-16 05:42:40 Generating observation maps.
+2026-03-16 11:00:42 Generating knärot maps.
+2026-03-16 12:03:37 Generating complaints.
+2026-03-16 12:07:51 Generating complaint letters.
+2026-03-16 12:10:12 Generating requests.
+2026-03-16 12:13:26 Generating request letters.
+2026-03-16 12:16:04 Saving notification information to Excel.
+2026-03-16 12:27:08 Saving list of notifications to json.
+2026-03-16 12:27:08 Copying species text document.
+2026-03-16 12:27:08 Saving observations to Excel.
+2026-03-16 12:28:28 Pushing repo C:\git\Logging_SVERIGE.
+2026-03-16 12:28:28 Pushing 313 repos.
