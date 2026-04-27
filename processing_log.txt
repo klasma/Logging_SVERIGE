@@ -1,113 +1,138 @@
-2026-04-26 00:00:08 Started replace_files_sweden.
-2026-04-26 00:00:08 Clearing repo C:\git\Logging_SVERIGE.
-2026-04-26 00:05:13 Downloading notifications.
-2026-04-26 00:05:23 Downloading observations.
-2026-04-26 00:05:23 2026-03-27
-2026-04-26 00:05:27 2026-03-28
-2026-04-26 00:05:32 2026-03-29
-2026-04-26 00:05:39 2026-03-30
-2026-04-26 00:06:00 2026-03-31
-2026-04-26 00:06:05 2026-04-01
-2026-04-26 00:06:14 2026-04-02
-2026-04-26 00:06:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 253 seconds." }
-2026-04-26 00:10:41 2026-04-03
-2026-04-26 00:10:45 2026-04-04
-2026-04-26 00:10:51 2026-04-05
-2026-04-26 00:10:52 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
-2026-04-26 00:11:05 2026-04-06
-2026-04-26 00:11:09 2026-04-07
-2026-04-26 00:11:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2026-04-26 00:11:17 2026-04-08
-2026-04-26 00:11:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 263 seconds." }
-2026-04-26 00:15:45 2026-04-09
-2026-04-26 00:15:52 2026-04-10
-2026-04-26 00:16:00 2026-04-11
-2026-04-26 00:16:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 4 seconds." }
-2026-04-26 00:16:11 2026-04-12
-2026-04-26 00:16:19 2026-04-13
-2026-04-26 00:16:27 2026-04-14
-2026-04-26 00:16:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 258 seconds." }
-2026-04-26 00:20:53 2026-04-15
-2026-04-26 00:21:35 2026-04-16
-2026-04-26 00:21:42 2026-04-17
-2026-04-26 00:21:48 2026-04-18
-2026-04-26 00:21:56 2026-04-19
-2026-04-26 00:22:03 2026-04-20
-2026-04-26 00:22:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 229 seconds." }
-2026-04-26 00:25:53 Query exceeds limit of 50000 observations.
-2026-04-26 00:25:53 Downloading observations for county 01 Stockholms län
-2026-04-26 00:25:55 Downloading observations for county 03 Uppsala län
-2026-04-26 00:25:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 38 seconds." }
-2026-04-26 00:26:35 Downloading observations for county 04 Södermanlands län
-2026-04-26 00:26:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
-2026-04-26 00:26:46 Downloading observations for county 05 Östergötlands län
-2026-04-26 00:26:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-04-26 00:26:49 Downloading observations for county 06 Jönköpings län
-2026-04-26 00:26:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
-2026-04-26 00:26:59 Downloading observations for county 07 Kronobergs län
-2026-04-26 00:27:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2026-04-26 00:27:04 Downloading observations for county 08 Kalmar län
-2026-04-26 00:27:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 231 seconds." }
-2026-04-26 00:30:56 Downloading observations for county 09 Gotlands län
-2026-04-26 00:30:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 35 seconds." }
-2026-04-26 00:31:33 Downloading observations for county 10 Blekinge län
-2026-04-26 00:31:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 9 seconds." }
-2026-04-26 00:31:44 Downloading observations for county 12 Skåne län
-2026-04-26 00:31:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-04-26 00:31:53 Downloading observations for county 13 Hallands län
-2026-04-26 00:31:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
-2026-04-26 00:31:57 Downloading observations for county 14 Västra Götalands län
-2026-04-26 00:31:58 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2026-04-26 00:32:14 Downloading observations for county 17 Värmlands län
-2026-04-26 00:32:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 221 seconds." }
-2026-04-26 00:35:58 Downloading observations for county 18 Örebro län
-2026-04-26 00:35:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 34 seconds." }
-2026-04-26 00:36:40 Downloading observations for county 19 Västmanlands län
-2026-04-26 00:36:41 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2026-04-26 00:36:47 Downloading observations for county 20 Dalarnas län
-2026-04-26 00:36:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
-2026-04-26 00:36:56 Downloading observations for county 21 Gävleborgs län
-2026-04-26 00:36:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-04-26 00:36:58 Downloading observations for county 22 Västernorrlands län
-2026-04-26 00:36:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 15 seconds." }
-2026-04-26 00:37:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 224 seconds." }
-2026-04-26 00:41:02 Downloading observations for county 23 Jämtlands län
-2026-04-26 00:41:05 Downloading observations for county 24 Västerbottens län
-2026-04-26 00:41:06 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 42 seconds." }
-2026-04-26 00:41:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
-2026-04-26 00:41:58 Downloading observations for county 25 Norrbottens län
-2026-04-26 00:41:58 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
-2026-04-26 00:42:02 2026-04-21
-2026-04-26 00:42:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 241 seconds." }
-2026-04-26 00:46:14 2026-04-22
-2026-04-26 00:46:15 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2026-04-26 00:46:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 40 seconds." }
-2026-04-26 00:47:05 2026-04-23
-2026-04-26 00:47:09 2026-04-24
-2026-04-26 00:47:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 241 seconds." }
-2026-04-26 00:51:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 3 seconds." }
-2026-04-26 00:51:19 2026-04-25
-2026-04-26 00:51:23 2026-04-26
-2026-04-26 00:51:23 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 43 seconds." }
-2026-04-26 00:52:07 Copying observations
-2026-04-26 00:52:08 Processing.
-2026-04-26 00:52:08 Loading species.
-2026-04-26 00:52:13 Loading observations.
-2026-04-26 02:10:54 Loading notifications.
-2026-04-26 02:20:09 Adding observations to notifications.
-2026-04-26 05:30:57 Freeing memory.
-2026-04-26 05:31:12 Loading observation Excel dictionaries.
-2026-04-26 05:53:48 Adding owners.
-2026-04-26 06:02:37 Processing logging notifications.
-2026-04-26 06:02:38 Generating observation maps.
-2026-04-26 11:27:38 Generating knärot maps.
-2026-04-26 12:33:12 Generating complaints.
-2026-04-26 12:37:40 Generating complaint letters.
-2026-04-26 12:40:08 Generating requests.
-2026-04-26 12:43:35 Generating request letters.
-2026-04-26 12:46:24 Saving notification information to Excel.
-2026-04-26 12:57:54 Saving list of notifications to json.
-2026-04-26 12:57:54 Copying species text document.
-2026-04-26 12:57:54 Saving observations to Excel.
-2026-04-26 12:59:27 Pushing repo C:\git\Logging_SVERIGE.
-2026-04-26 12:59:27 Pushing 313 repos.
+2026-04-27 00:00:08 Started replace_files_sweden.
+2026-04-27 00:00:08 Clearing repo C:\git\Logging_SVERIGE.
+2026-04-27 00:05:31 Downloading notifications.
+2026-04-27 00:05:40 Downloading observations.
+2026-04-27 00:05:40 2026-03-28
+2026-04-27 00:05:46 2026-03-29
+2026-04-27 00:05:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 60 seconds." }
+2026-04-27 00:06:47 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 26 seconds." }
+2026-04-27 00:07:22 2026-03-30
+2026-04-27 00:07:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 67 seconds." }
+2026-04-27 00:08:30 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 31 seconds." }
+2026-04-27 00:09:27 2026-03-31
+2026-04-27 00:09:28 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 78 seconds." }
+2026-04-27 00:10:51 2026-04-01
+2026-04-27 00:10:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 21 seconds." }
+2026-04-27 00:11:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 68 seconds." }
+2026-04-27 00:12:30 2026-04-02
+2026-04-27 00:12:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2026-04-27 00:12:52 2026-04-03
+2026-04-27 00:12:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 91 seconds." }
+2026-04-27 00:14:24 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2026-04-27 00:14:32 2026-04-04
+2026-04-27 00:14:32 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 78 seconds." }
+2026-04-27 00:15:51 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2026-04-27 00:16:01 2026-04-05
+2026-04-27 00:16:02 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 110 seconds." }
+2026-04-27 00:17:57 2026-04-06
+2026-04-27 00:17:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 19 seconds." }
+2026-04-27 00:18:21 2026-04-07
+2026-04-27 00:18:21 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 71 seconds." }
+2026-04-27 00:19:33 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
+2026-04-27 00:19:45 2026-04-08
+2026-04-27 00:19:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 73 seconds." }
+2026-04-27 00:20:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2026-04-27 00:21:09 2026-04-09
+2026-04-27 00:21:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 107 seconds." }
+2026-04-27 00:22:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 23 seconds." }
+2026-04-27 00:23:24 2026-04-10
+2026-04-27 00:23:25 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2026-04-27 00:23:45 2026-04-11
+2026-04-27 00:23:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 110 seconds." }
+2026-04-27 00:25:44 2026-04-12
+2026-04-27 00:25:44 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 24 seconds." }
+2026-04-27 00:26:17 2026-04-13
+2026-04-27 00:26:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 29 seconds." }
+2026-04-27 00:27:00 2026-04-14
+2026-04-27 00:27:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 92 seconds." }
+2026-04-27 00:28:38 2026-04-15
+2026-04-27 00:28:38 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 6 seconds." }
+2026-04-27 00:28:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 119 seconds." }
+2026-04-27 00:31:31 2026-04-16
+2026-04-27 00:31:42 2026-04-17
+2026-04-27 00:31:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 12 seconds." }
+2026-04-27 00:32:01 2026-04-18
+2026-04-27 00:32:10 2026-04-19
+2026-04-27 00:32:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 89 seconds." }
+2026-04-27 00:33:49 2026-04-20
+2026-04-27 00:33:50 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 161 seconds." }
+2026-04-27 00:36:31 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
+2026-04-27 00:36:42 Query exceeds limit of 50000 observations.
+2026-04-27 00:36:42 Downloading observations for county 01 Stockholms län
+2026-04-27 00:36:45 Downloading observations for county 03 Uppsala län
+2026-04-27 00:36:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 19 seconds." }
+2026-04-27 00:37:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2026-04-27 00:37:12 Downloading observations for county 04 Södermanlands län
+2026-04-27 00:37:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 96 seconds." }
+2026-04-27 00:38:49 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 2 seconds." }
+2026-04-27 00:38:55 Downloading observations for county 05 Östergötlands län
+2026-04-27 00:38:56 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 170 seconds." }
+2026-04-27 00:41:48 Downloading observations for county 06 Jönköpings län
+2026-04-27 00:41:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 24 seconds." }
+2026-04-27 00:42:16 Downloading observations for county 07 Kronobergs län
+2026-04-27 00:42:16 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 99 seconds." }
+2026-04-27 00:43:57 Downloading observations for county 08 Kalmar län
+2026-04-27 00:43:58 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 171 seconds." }
+2026-04-27 00:46:53 Downloading observations for county 09 Gotlands län
+2026-04-27 00:46:53 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 23 seconds." }
+2026-04-27 00:47:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 100 seconds." }
+2026-04-27 00:48:59 Downloading observations for county 10 Blekinge län
+2026-04-27 00:49:00 Downloading observations for county 12 Skåne län
+2026-04-27 00:49:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 171 seconds." }
+2026-04-27 00:51:58 Downloading observations for county 13 Hallands län
+2026-04-27 00:51:59 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 120 seconds." }
+2026-04-27 00:54:00 Downloading observations for county 14 Västra Götalands län
+2026-04-27 00:54:18 Downloading observations for county 17 Värmlands län
+2026-04-27 00:54:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 158 seconds." }
+2026-04-27 00:56:57 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2026-04-27 00:57:01 Downloading observations for county 18 Örebro län
+2026-04-27 00:57:01 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 121 seconds." }
+2026-04-27 00:59:07 Downloading observations for county 19 Västmanlands län
+2026-04-27 00:59:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 169 seconds." }
+2026-04-27 01:02:00 Downloading observations for county 20 Dalarnas län
+2026-04-27 01:02:03 Downloading observations for county 21 Gävleborgs län
+2026-04-27 01:02:05 Downloading observations for county 22 Västernorrlands län
+2026-04-27 01:02:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 118 seconds." }
+2026-04-27 01:04:04 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2026-04-27 01:04:07 Downloading observations for county 23 Jämtlands län
+2026-04-27 01:04:08 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 173 seconds." }
+2026-04-27 01:07:02 Downloading observations for county 24 Västerbottens län
+2026-04-27 01:07:03 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2026-04-27 01:07:05 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 1 seconds." }
+2026-04-27 01:07:09 Downloading observations for county 25 Norrbottens län
+2026-04-27 01:07:09 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 118 seconds." }
+2026-04-27 01:09:10 2026-04-21
+2026-04-27 01:09:11 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 174 seconds." }
+2026-04-27 01:12:17 2026-04-22
+2026-04-27 01:12:17 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 114 seconds." }
+2026-04-27 01:14:12 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 175 seconds." }
+2026-04-27 01:17:14 2026-04-23
+2026-04-27 01:17:14 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 118 seconds." }
+2026-04-27 01:19:13 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 176 seconds." }
+2026-04-27 01:22:15 2026-04-24
+2026-04-27 01:22:21 2026-04-25
+2026-04-27 01:22:22 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 288 seconds." }
+2026-04-27 01:27:15 2026-04-26
+2026-04-27 01:27:21 2026-04-27
+2026-04-27 01:27:22 Copying observations
+2026-04-27 01:27:23 Processing.
+2026-04-27 01:27:23 Loading species.
+2026-04-27 01:27:29 Loading observations.
+2026-04-27 02:45:36 Loading notifications.
+2026-04-27 02:54:52 Adding observations to notifications.
+2026-04-27 06:04:46 Freeing memory.
+2026-04-27 06:05:01 Loading observation Excel dictionaries.
+2026-04-27 06:27:33 Adding owners.
+2026-04-27 06:36:20 Processing logging notifications.
+2026-04-27 06:36:20 Generating observation maps.
+2026-04-27 12:01:06 Generating knärot maps.
+2026-04-27 13:06:40 Generating complaints.
+2026-04-27 13:11:09 Generating complaint letters.
+2026-04-27 13:13:37 Generating requests.
+2026-04-27 13:17:04 Generating request letters.
+2026-04-27 13:19:54 Saving notification information to Excel.
+2026-04-27 13:31:22 Saving list of notifications to json.
+2026-04-27 13:31:22 Copying species text document.
+2026-04-27 13:31:22 Saving observations to Excel.
+2026-04-27 13:32:54 Pushing repo C:\git\Logging_SVERIGE.
+2026-04-27 13:32:54 Pushing 313 repos.
