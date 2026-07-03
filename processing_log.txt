@@ -1,44 +1,42 @@
-2026-07-02 00:00:07 Started replace_files.
-2026-07-02 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
-2026-07-02 00:09:19 Downloading notifications.
-2026-07-02 00:09:26 Downloading observations.
-2026-07-02 00:09:26 Updating 6847 taxa from 2026-06-01 (=2026-07-01 - 30 days) to 2026-07-02.
-2026-07-02 00:09:26 2026-07-02
-2026-07-02 00:09:27   upserted 11 observations
-2026-07-02 00:09:27 2026-07-01
-2026-07-02 00:11:21   upserted 8245 observations
-2026-07-02 00:11:21 2026-06-27 .. 2026-06-30 (4 days)
-2026-07-02 00:20:56   upserted 33436 observations
-2026-07-02 00:20:56 2026-06-23 .. 2026-06-26 (4 days)
-2026-07-02 00:33:18   upserted 41227 observations
-2026-07-02 00:33:18 2026-06-19 .. 2026-06-22 (4 days)
-2026-07-02 00:38:34   upserted 25094 observations
-2026-07-02 00:38:34 2026-06-15 .. 2026-06-18 (4 days)
-2026-07-02 00:42:58   upserted 26832 observations
-2026-07-02 00:42:58 2026-06-10 .. 2026-06-14 (5 days)
-2026-07-02 00:48:18   upserted 37069 observations
-2026-07-02 00:48:18 2026-06-05 .. 2026-06-09 (5 days)
-2026-07-02 00:54:32   upserted 42696 observations
-2026-07-02 00:54:32 2026-06-01 .. 2026-06-04 (4 days)
-2026-07-02 01:00:56   upserted 41669 observations
-2026-07-02 01:00:56 Processing.
-2026-07-02 01:00:56 Loading species.
-2026-07-02 01:01:01 Loading notifications.
-2026-07-02 01:10:13 Loading observations.
-2026-07-02 01:15:22 Adding observations to notifications.
-2026-07-02 01:42:57 Freeing memory.
-2026-07-02 01:43:12 Loading observation Excel dictionaries.
-2026-07-02 01:44:38 Adding owners.
-2026-07-02 01:54:09 Processing logging notifications.
-2026-07-02 01:54:09 Generating observation maps.
-2026-07-02 02:34:40 Generating knärot maps.
-2026-07-02 02:37:28 Generating complaints.
-2026-07-02 02:42:45 Generating complaint letters.
-2026-07-02 02:45:37 Generating requests.
-2026-07-02 02:49:40 Generating request letters.
-2026-07-02 02:53:22 Saving notification information to Excel.
-2026-07-02 03:02:25 Saving list of notifications to json.
-2026-07-02 03:02:25 Copying species text document.
-2026-07-02 03:02:25 Saving observations to Excel.
-2026-07-02 03:04:06 Pushing repo C:\git\Logging_SVERIGE.
-2026-07-02 03:04:06 Pushing 313 repos.
+2026-07-03 00:00:07 Started replace_files.
+2026-07-03 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
+2026-07-03 00:09:48 Downloading notifications.
+2026-07-03 00:09:55 Downloading observations.
+2026-07-03 00:09:55 Updating 6847 taxa from 2026-06-02 (=2026-07-02 - 30 days) to 2026-07-03.
+2026-07-03 00:09:55 2026-07-03
+2026-07-03 00:10:00   upserted 5 observations
+2026-07-03 00:10:00 2026-07-02
+2026-07-03 00:11:42   upserted 6563 observations
+2026-07-03 00:11:42 2026-06-26 .. 2026-07-01 (6 days)
+2026-07-03 00:25:22   upserted 48183 observations
+2026-07-03 00:25:22 2026-06-21 .. 2026-06-25 (5 days)
+2026-07-03 00:39:39   upserted 47444 observations
+2026-07-03 00:39:39 2026-06-17 .. 2026-06-20 (4 days)
+2026-07-03 00:44:27   upserted 24671 observations
+2026-07-03 00:44:27 2026-06-12 .. 2026-06-16 (5 days)
+2026-07-03 00:49:56   upserted 36924 observations
+2026-07-03 00:49:56 2026-06-07 .. 2026-06-11 (5 days)
+2026-07-03 00:55:52   upserted 39745 observations
+2026-07-03 00:55:52 2026-06-02 .. 2026-06-06 (5 days)
+2026-07-03 01:03:15   upserted 47736 observations
+2026-07-03 01:03:15 Processing.
+2026-07-03 01:03:15 Loading species.
+2026-07-03 01:03:20 Loading notifications.
+2026-07-03 01:12:31 Loading observations.
+2026-07-03 01:17:33 Adding observations to notifications.
+2026-07-03 01:45:11 Freeing memory.
+2026-07-03 01:45:26 Loading observation Excel dictionaries.
+2026-07-03 01:46:51 Adding owners.
+2026-07-03 01:56:28 Processing logging notifications.
+2026-07-03 01:56:28 Generating observation maps.
+2026-07-03 02:37:32 Generating knärot maps.
+2026-07-03 02:40:20 Generating complaints.
+2026-07-03 02:45:35 Generating complaint letters.
+2026-07-03 02:48:29 Generating requests.
+2026-07-03 02:52:28 Generating request letters.
+2026-07-03 02:56:11 Saving notification information to Excel.
+2026-07-03 03:05:15 Saving list of notifications to json.
+2026-07-03 03:05:15 Copying species text document.
+2026-07-03 03:05:15 Saving observations to Excel.
+2026-07-03 03:06:56 Pushing repo C:\git\Logging_SVERIGE.
+2026-07-03 03:06:56 Pushing 313 repos.
