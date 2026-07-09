@@ -1,48 +1,55 @@
-2026-07-08 00:00:07 Started replace_files.
-2026-07-08 00:00:07 Clearing repo C:\git\Logging_SVERIGE.
-2026-07-08 00:11:52 Downloading notifications.
-2026-07-08 00:11:59 Downloading observations.
-2026-07-08 00:11:59 Updating 6847 taxa from 2026-06-07 (=2026-07-07 - 30 days) to 2026-07-08.
-2026-07-08 00:11:59 2026-07-08
-2026-07-08 00:12:04   upserted 9 observations
-2026-07-08 00:12:04 2026-07-07
-2026-07-08 00:15:27   upserted 17676 observations
-2026-07-08 00:15:27 2026-07-05 .. 2026-07-06 (2 days)
-2026-07-08 00:18:01   upserted 13536 observations
-2026-07-08 00:18:01 2026-07-02 .. 2026-07-04 (3 days)
-2026-07-08 00:21:41   upserted 17619 observations
-2026-07-08 00:21:41 2026-06-28 .. 2026-07-01 (4 days)
-2026-07-08 00:28:26   upserted 28396 observations
-2026-07-08 00:28:26 2026-06-23 .. 2026-06-27 (5 days)
-2026-07-08 00:28:27 Query exceeds limit of 50000 observations.
-2026-07-08 00:28:27 Splitting date range 2026-06-23 .. 2026-06-28 at 2026-06-25
-2026-07-08 00:43:20   upserted 53890 observations
-2026-07-08 00:43:20 2026-06-19 .. 2026-06-22 (4 days)
-2026-07-08 00:48:17   upserted 25038 observations
-2026-07-08 00:48:17 2026-06-14 .. 2026-06-18 (5 days)
-2026-07-08 00:53:48   upserted 34982 observations
-2026-07-08 00:53:48 2026-06-09 .. 2026-06-13 (5 days)
-2026-07-08 00:58:44   upserted 35887 observations
-2026-07-08 00:58:44 2026-06-07 .. 2026-06-08 (2 days)
-2026-07-08 01:00:55   upserted 18120 observations
-2026-07-08 01:00:56 Processing.
-2026-07-08 01:00:56 Loading species.
-2026-07-08 01:01:01 Loading notifications.
-2026-07-08 01:10:29 Loading observations.
-2026-07-08 01:16:04 Adding observations to notifications.
-2026-07-08 01:43:55 Freeing memory.
-2026-07-08 01:44:11 Loading observation Excel dictionaries.
-2026-07-08 01:45:49 Adding owners.
-2026-07-08 01:55:20 Processing logging notifications.
-2026-07-08 01:55:20 Generating observation maps.
-2026-07-08 02:36:34 Generating knärot maps.
-2026-07-08 02:39:25 Generating complaints.
-2026-07-08 02:44:39 Generating complaint letters.
-2026-07-08 02:47:32 Generating requests.
-2026-07-08 02:51:30 Generating request letters.
-2026-07-08 02:55:16 Saving notification information to Excel.
-2026-07-08 03:04:12 Saving list of notifications to json.
-2026-07-08 03:04:12 Copying species text document.
-2026-07-08 03:04:12 Saving observations to Excel.
-2026-07-08 03:05:56 Pushing repo C:\git\Logging_SVERIGE.
-2026-07-08 03:05:56 Pushing 313 repos.
+2026-07-09 00:00:08 Started replace_files.
+2026-07-09 00:00:08 Clearing repo C:\git\Logging_SVERIGE.
+2026-07-09 00:12:16 Downloading notifications.
+2026-07-09 00:12:22 Downloading samråd.
+2026-07-09 00:12:28 Downloading observations.
+2026-07-09 00:12:28 Updating 6847 taxa from 2026-06-08 (=2026-07-08 - 30 days) to 2026-07-09.
+2026-07-09 00:12:28 2026-07-09
+2026-07-09 00:12:33   upserted 18 observations
+2026-07-09 00:12:33 2026-07-08
+2026-07-09 00:13:47   upserted 5599 observations
+2026-07-09 00:13:47 2026-07-01 .. 2026-07-07 (7 days)
+2026-07-09 00:13:48 Query exceeds limit of 50000 observations.
+2026-07-09 00:13:48 Splitting date range 2026-07-01 .. 2026-07-08 at 2026-07-04
+2026-07-09 00:28:16   upserted 56718 observations
+2026-07-09 00:28:16 2026-06-26 .. 2026-06-30 (5 days)
+2026-07-09 00:39:28   upserted 39630 observations
+2026-07-09 00:39:28 2026-06-21 .. 2026-06-25 (5 days)
+2026-07-09 00:52:24   upserted 47333 observations
+2026-07-09 00:52:24 2026-06-17 .. 2026-06-20 (4 days)
+2026-07-09 00:56:56   upserted 24606 observations
+2026-07-09 00:56:56 2026-06-12 .. 2026-06-16 (5 days)
+2026-07-09 01:02:37   upserted 36861 observations
+2026-07-09 01:02:37 2026-06-08 .. 2026-06-11 (4 days)
+2026-07-09 01:06:53   upserted 30142 observations
+2026-07-09 01:06:53 Downloading 2 new taxa from 1900-01-01 to 2026-07-09.
+2026-07-09 01:06:53 2026-07-09
+2026-07-09 01:06:53 2026-07-08
+2026-07-09 01:06:54 2026-06-07 .. 2026-07-07 (31 days)
+2026-07-09 01:06:58   upserted 2 observations
+2026-07-09 01:06:58 2025-06-07 .. 2026-06-06 (365 days)
+2026-07-09 01:07:03   upserted 59 observations
+2026-07-09 01:07:03 1900-01-01 .. 2025-06-06 (45813 days)
+2026-07-09 01:07:29   upserted 1088 observations
+2026-07-09 01:07:31 Processing.
+2026-07-09 01:07:31 Loading species.
+2026-07-09 01:07:36 Loading notifications from zip.
+2026-07-09 01:16:43 Loading samråd from zip.
+2026-07-09 01:17:07 Loading observations.
+2026-07-09 01:22:17 Adding observations to notifications.
+2026-07-09 01:59:52 Freeing memory.
+2026-07-09 02:00:10 Loading observation Excel dictionaries.
+2026-07-09 02:04:47 Adding owners.
+2026-07-09 02:16:52 Processing logging notifications.
+2026-07-09 02:16:53 Generating observation maps.
+2026-07-09 03:49:29 Generating knärot maps.
+2026-07-09 03:53:53 Generating complaints.
+2026-07-09 04:00:04 Generating complaint letters.
+2026-07-09 04:03:19 Generating requests.
+2026-07-09 04:08:04 Generating request letters.
+2026-07-09 04:12:08 Saving notification information to Excel.
+2026-07-09 04:22:02 Saving list of notifications to json.
+2026-07-09 04:22:02 Copying species text document.
+2026-07-09 04:22:02 Saving observations to Excel.
+2026-07-09 04:23:59 Pushing repo C:\git\Logging_SVERIGE.
+2026-07-09 04:23:59 Pushing 313 repos.
