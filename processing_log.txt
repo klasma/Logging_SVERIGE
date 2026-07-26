@@ -1,55 +1,52 @@
-2026-07-25 00:07:07 Started replace_files.
-2026-07-25 00:07:07 Clearing repo C:\git\Logging_SVERIGE.
-2026-07-25 00:15:12 Downloading notifications.
-2026-07-25 00:15:19 Downloading samråd.
-2026-07-25 00:15:24 Downloading observations.
-2026-07-25 00:15:24 Updating 6849 taxa from 2026-06-25 (=2026-07-25 - 30 days) to 2026-07-25.
-2026-07-25 00:15:24 2026-07-25
-2026-07-25 00:15:25   upserted 17 observations
-2026-07-25 00:15:31 2026-07-24
-2026-07-25 00:15:39   upserted 8927 observations
-2026-07-25 00:15:45   removed 17 observations deleted from Artportalen
-2026-07-25 00:15:45 2026-07-20 .. 2026-07-23 (4 days)
-2026-07-25 00:16:23   upserted 33119 observations
-2026-07-25 00:16:29   removed 107 observations deleted from Artportalen
-2026-07-25 00:16:29 2026-07-16 .. 2026-07-19 (4 days)
-2026-07-25 00:16:55   upserted 22769 observations
-2026-07-25 00:17:01   removed 222 observations deleted from Artportalen
-2026-07-25 00:17:01 2026-07-11 .. 2026-07-15 (5 days)
-2026-07-25 00:17:38   upserted 29405 observations
-2026-07-25 00:17:44   removed 153 observations deleted from Artportalen
-2026-07-25 00:17:44 2026-07-06 .. 2026-07-10 (5 days)
-2026-07-25 00:18:36   upserted 43185 observations
-2026-07-25 00:18:42   removed 103 observations deleted from Artportalen
-2026-07-25 00:18:42 2026-07-01 .. 2026-07-05 (5 days)
-2026-07-25 00:18:42 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 103 seconds." }
-2026-07-25 00:21:11   upserted 31860 observations
-2026-07-25 00:21:16   removed 114 observations deleted from Artportalen
-2026-07-25 00:21:16 2026-06-26 .. 2026-06-30 (5 days)
-2026-07-25 00:22:20   upserted 39314 observations
-2026-07-25 00:22:26   removed 151 observations deleted from Artportalen
-2026-07-25 00:22:26 2026-06-25
-2026-07-25 00:22:58   upserted 19794 observations
-2026-07-25 00:23:04   removed 266 observations deleted from Artportalen
-2026-07-25 00:23:04 Processing.
-2026-07-25 00:23:04 Loading species.
-2026-07-25 00:23:09 Loading notifications from zip.
-2026-07-25 00:32:07 Loading samråd from zip.
-2026-07-25 00:32:54 Loading observations.
-2026-07-25 00:37:28 Adding observations to notifications.
-2026-07-25 01:14:23 Freeing memory.
-2026-07-25 01:14:38 Loading observation Excel dictionaries.
-2026-07-25 01:15:02 Adding owners.
-2026-07-25 01:27:01 Processing logging notifications.
-2026-07-25 01:27:02 Generating observation maps.
-2026-07-25 03:21:08 Generating knärot maps.
-2026-07-25 03:25:27 Generating complaints.
-2026-07-25 03:31:31 Generating complaint letters.
-2026-07-25 03:34:51 Generating requests.
-2026-07-25 03:39:43 Generating request letters.
-2026-07-25 03:43:53 Saving notification information to Excel.
-2026-07-25 03:54:20 Saving list of notifications to json.
-2026-07-25 03:54:20 Copying species text document.
-2026-07-25 03:54:20 Saving observations to Excel.
-2026-07-25 03:56:26 Pushing repo C:\git\Logging_SVERIGE.
-2026-07-25 03:56:26 Pushing 313 repos.
+2026-07-26 00:07:06 Started replace_files.
+2026-07-26 00:07:06 Clearing repo C:\git\Logging_SVERIGE.
+2026-07-26 00:15:41 Downloading notifications.
+2026-07-26 00:15:48 Downloading samråd.
+2026-07-26 00:15:53 Downloading observations.
+2026-07-26 00:15:53 Updating 6849 taxa from 2026-06-26 (=2026-07-26 - 30 days) to 2026-07-26.
+2026-07-26 00:15:53 2026-07-26
+2026-07-26 00:15:58   upserted 19 observations
+2026-07-26 00:16:04 2026-07-25
+2026-07-26 00:16:13   upserted 6269 observations
+2026-07-26 00:16:19   removed 19 observations deleted from Artportalen
+2026-07-26 00:16:19 2026-07-19 .. 2026-07-24 (6 days)
+2026-07-26 00:17:13   upserted 48215 observations
+2026-07-26 00:17:19   removed 119 observations deleted from Artportalen
+2026-07-26 00:17:19 2026-07-14 .. 2026-07-18 (5 days)
+2026-07-26 00:17:50   upserted 27132 observations
+2026-07-26 00:17:55   removed 89 observations deleted from Artportalen
+2026-07-26 00:17:55 2026-07-09 .. 2026-07-13 (5 days)
+2026-07-26 00:18:36   upserted 32122 observations
+2026-07-26 00:18:42   removed 117 observations deleted from Artportalen
+2026-07-26 00:18:42 2026-07-04 .. 2026-07-08 (5 days)
+2026-07-26 00:19:28   upserted 42655 observations
+2026-07-26 00:19:34   removed 81 observations deleted from Artportalen
+2026-07-26 00:19:34 2026-06-29 .. 2026-07-03 (5 days)
+2026-07-26 00:19:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 84 seconds." }
+2026-07-26 00:21:53   upserted 32371 observations
+2026-07-26 00:22:00   removed 64 observations deleted from Artportalen
+2026-07-26 00:22:00 2026-06-26 .. 2026-06-28 (3 days)
+2026-07-26 00:22:55   upserted 25947 observations
+2026-07-26 00:23:01   removed 103 observations deleted from Artportalen
+2026-07-26 00:23:01 Processing.
+2026-07-26 00:23:01 Loading species.
+2026-07-26 00:23:06 Loading notifications from zip.
+2026-07-26 00:32:05 Loading samråd from zip.
+2026-07-26 00:32:52 Loading observations.
+2026-07-26 00:37:14 Adding observations to notifications.
+2026-07-26 01:14:25 Freeing memory.
+2026-07-26 01:14:38 Loading observation Excel dictionaries.
+2026-07-26 01:15:02 Adding owners.
+2026-07-26 01:27:07 Processing logging notifications.
+2026-07-26 01:27:07 Generating observation maps.
+2026-07-26 03:21:51 Generating knärot maps.
+2026-07-26 03:26:08 Generating complaints.
+2026-07-26 03:32:16 Generating complaint letters.
+2026-07-26 03:35:36 Generating requests.
+2026-07-26 03:40:30 Generating request letters.
+2026-07-26 03:44:41 Saving notification information to Excel.
+2026-07-26 03:55:09 Saving list of notifications to json.
+2026-07-26 03:55:09 Copying species text document.
+2026-07-26 03:55:09 Saving observations to Excel.
+2026-07-26 03:57:15 Pushing repo C:\git\Logging_SVERIGE.
+2026-07-26 03:57:15 Pushing 313 repos.
