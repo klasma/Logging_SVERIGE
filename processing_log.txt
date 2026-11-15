@@ -1,49 +1,48 @@
-2026-11-14 00:12:10 Started replace_files.
-2026-11-14 00:12:10 Clearing repo C:\git\Logging_SVERIGE.
-2026-11-14 00:27:46 Downloading notifications.
-2026-11-14 00:27:53 Downloading samråd.
-2026-11-14 00:27:58 Downloading observations.
-2026-11-14 00:27:58 Updating 6822 taxa from 2026-10-14 (=2026-11-13 - 30 days) to 2026-11-14.
-2026-11-14 00:27:58 2026-11-14
-2026-11-14 00:28:03   upserted 3 observations
-2026-11-14 00:28:09 2026-11-13
-2026-11-14 00:28:13   upserted 5566 observations
-2026-11-14 00:28:19 2026-11-06 .. 2026-11-12 (7 days)
-2026-11-14 00:29:14   upserted 34438 observations
-2026-11-14 00:29:21   removed 58 observations deleted from Artportalen
-2026-11-14 00:29:21 2026-10-30 .. 2026-11-05 (7 days)
-2026-11-14 00:29:21 Query exceeds limit of 50000 observations.
-2026-11-14 00:29:21 Splitting date range 2026-10-30 .. 2026-11-06 at 2026-11-02
-2026-11-14 00:30:20   upserted 52937 observations
-2026-11-14 00:30:26   removed 9 observations deleted from Artportalen
-2026-11-14 00:30:26 2026-10-24 .. 2026-10-29 (6 days)
-2026-11-14 00:31:11   upserted 42422 observations
-2026-11-14 00:31:17 2026-10-18 .. 2026-10-23 (6 days)
-2026-11-14 00:31:18 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 105 seconds." }
-2026-11-14 00:33:54   upserted 40114 observations
-2026-11-14 00:34:00   removed 1 observations deleted from Artportalen
-2026-11-14 00:34:00 2026-10-14 .. 2026-10-17 (4 days)
-2026-11-14 00:34:35   upserted 29844 observations
-2026-11-14 00:34:41   removed 1 observations deleted from Artportalen
-2026-11-14 00:34:41 Processing.
-2026-11-14 00:34:41 Loading species.
-2026-11-14 00:34:46 Loading notifications from zip.
-2026-11-14 00:43:53 Loading samråd from zip.
-2026-11-14 00:44:42 Loading observations.
-2026-11-14 00:49:17 Adding observations to notifications.
-2026-11-14 01:27:19 Freeing memory.
-2026-11-14 01:27:34 Loading observation Excel dictionaries.
-2026-11-14 01:28:41 Adding owners.
-2026-11-14 01:41:09 Processing logging notifications.
-2026-11-14 01:41:09 Generating observation maps.
-2026-11-14 04:12:22 Generating knärot maps.
-2026-11-14 04:17:30 Generating complaints.
-2026-11-14 04:24:05 Generating complaint letters.
-2026-11-14 04:27:37 Generating requests.
-2026-11-14 04:32:47 Generating request letters.
-2026-11-14 04:37:16 Saving notification information to Excel.
-2026-11-14 04:47:53 Saving list of notifications to json.
-2026-11-14 04:47:53 Copying species text document.
-2026-11-14 04:47:53 Saving observations to Excel.
-2026-11-14 04:50:08 Pushing repo C:\git\Logging_SVERIGE.
-2026-11-14 04:50:08 Pushing 313 repos.
+2026-11-15 00:00:08 Started replace_files.
+2026-11-15 00:00:08 Clearing repo C:\git\Logging_SVERIGE.
+2026-11-15 00:15:51 Downloading notifications.
+2026-11-15 00:15:58 Downloading samråd.
+2026-11-15 00:16:03 Downloading observations.
+2026-11-15 00:16:03 Updating 6822 taxa from 2026-10-15 (=2026-11-14 - 30 days) to 2026-11-15.
+2026-11-15 00:16:03 2026-11-15
+2026-11-15 00:16:09   upserted 1 observations
+2026-11-15 00:16:15 2026-11-14
+2026-11-15 00:16:21   upserted 4990 observations
+2026-11-15 00:16:27 2026-11-06 .. 2026-11-13 (8 days)
+2026-11-15 00:17:22   upserted 39879 observations
+2026-11-15 00:17:28   removed 25 observations deleted from Artportalen
+2026-11-15 00:17:28 2026-10-29 .. 2026-11-05 (8 days)
+2026-11-15 00:17:29 Query exceeds limit of 50000 observations.
+2026-11-15 00:17:29 Splitting date range 2026-10-29 .. 2026-11-06 at 2026-11-02
+2026-11-15 00:18:42   upserted 59853 observations
+2026-11-15 00:18:48   removed 10 observations deleted from Artportalen
+2026-11-15 00:18:48 2026-10-23 .. 2026-10-28 (6 days)
+2026-11-15 00:19:38   upserted 39870 observations
+2026-11-15 00:19:44   removed 5 observations deleted from Artportalen
+2026-11-15 00:19:44 2026-10-17 .. 2026-10-22 (6 days)
+2026-11-15 00:19:45 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 85 seconds." }
+2026-11-15 00:22:10   upserted 44039 observations
+2026-11-15 00:22:16 2026-10-15 .. 2026-10-16 (2 days)
+2026-11-15 00:22:45   upserted 15178 observations
+2026-11-15 00:22:51 Processing.
+2026-11-15 00:22:51 Loading species.
+2026-11-15 00:22:57 Loading notifications from zip.
+2026-11-15 00:32:07 Loading samråd from zip.
+2026-11-15 00:33:00 Loading observations.
+2026-11-15 00:37:24 Adding observations to notifications.
+2026-11-15 01:15:39 Freeing memory.
+2026-11-15 01:15:54 Loading observation Excel dictionaries.
+2026-11-15 01:17:02 Adding owners.
+2026-11-15 01:29:30 Processing logging notifications.
+2026-11-15 01:29:31 Generating observation maps.
+2026-11-15 04:02:06 Generating knärot maps.
+2026-11-15 04:07:13 Generating complaints.
+2026-11-15 04:13:49 Generating complaint letters.
+2026-11-15 04:17:22 Generating requests.
+2026-11-15 04:22:31 Generating request letters.
+2026-11-15 04:27:02 Saving notification information to Excel.
+2026-11-15 04:37:41 Saving list of notifications to json.
+2026-11-15 04:37:41 Copying species text document.
+2026-11-15 04:37:41 Saving observations to Excel.
+2026-11-15 04:39:54 Pushing repo C:\git\Logging_SVERIGE.
+2026-11-15 04:39:54 Pushing 313 repos.
